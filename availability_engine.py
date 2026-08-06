@@ -30,78 +30,64 @@ class FleetSenseEngine:
         self.demand_model_path = os.path.join(data_dir, "demand_forecasting_model.pkl")
         self.return_model_path = os.path.join(data_dir, "return_probability_model.pkl")
         self.fleet_csv_path = os.path.join(data_dir, "fleet_availability.csv")
+        self.features_path = os.path.join(data_dir, "demand_model_features.pkl")
         
-        self.demand_model = None
-        self.return_model = None
-        self.fleet_df = None
-        self._load_artifacts()
-
-    def _load_artifacts(self):
-        if os.path.exists(self.demand_model_path):
-            try:
-                self.demand_model = joblib.load(self.demand_model_path)
-                print("✓ Loaded demand_forecasting_model.pkl")
-            except Exception as e:
-                print(f"⚠️ Error loading demand model: {e}")
-                
-        if os.path.exists(self.return_model_path):
-            try:
-                self.return_model = joblib.load(self.return_model_path)
-                print("✓ Loaded return_probability_model.pkl")
-            except Exception as e:
-                print(f"⚠️ Error loading return model: {e}")
-
-        if os.path.exists(self.fleet_csv_path):
-            try:
-                self.fleet_df = pd.read_csv(self.fleet_csv_path)
-                print("✓ Loaded fleet_availability.csv")
-            except Exception as e:
-                print(f"⚠️ Error loading fleet CSV: {e}")
+        self.demand_model = joblib.load(self.demand_model_path)
+        self.return_model = joblib.load(self.return_model_path)
+        self.fleet_df = pd.read_csv(self.fleet_csv_path)
+        self.model_features = joblib.load(self.features_path) if os.path.exists(self.features_path) else None
 
     def _get_fleet_inventory(self, equipment_type: str) -> Dict[str, int]:
-        if self.fleet_df is not None and not self.fleet_df.empty:
-            if 'equipment_type' in self.fleet_df.columns:
-                filtered = self.fleet_df[self.fleet_df['equipment_type'].str.lower() == equipment_type.lower()]
-                if not filtered.empty:
-                    total = int(filtered['total_units'].iloc[0]) if 'total_units' in filtered.columns else 50
-                    available = int(filtered['available_units'].iloc[0]) if 'available_units' in filtered.columns else 35
-                    turnaround = int(filtered['in_turnaround'].iloc[0]) if 'in_turnaround' in filtered.columns else 10
-                    return {"total": total, "available": available, "turnaround": turnaround}
+        if 'equipment_type' in self.fleet_df.columns:
+            filtered = self.fleet_df[self.fleet_df['equipment_type'].str.lower() == equipment_type.lower()]
+            if not filtered.empty:
+                total = int(filtered['total_units'].iloc[0])
+                available = int(filtered['available_units'].iloc[0])
+                turnaround = int(filtered['in_turnaround'].iloc[0])
+                return {"total": total, "available": available, "turnaround": turnaround}
 
-        eq_map = {
-            "excavator": {"total": 80, "available": 45, "turnaround": 25},
-            "bulldozer": {"total": 40, "available": 18, "turnaround": 15},
-            "crane": {"total": 25, "available": 8, "turnaround": 12},
-            "loader": {"total": 60, "available": 32, "turnaround": 18},
-            "forklift": {"total": 100, "available": 75, "turnaround": 10}
+        row = self.fleet_df.iloc[0]
+        return {
+            "total": int(row.get("total_units", 50)),
+            "available": int(row.get("available_units", 30)),
+            "turnaround": int(row.get("in_turnaround", 10))
         }
-        return eq_map.get(equipment_type.lower(), {"total": 50, "available": 30, "turnaround": 15})
 
-    def calculate_risk_analysis(self, equipment: str, quantity: int, site_id: str, booking_date: str) -> Dict[str, Any]:
+    def calculate_risk_analysis(self, equipment: str, quantity: int, site_id: str, booking_date: str, operational_anomaly_penalty: float = 0.0) -> Dict[str, Any]:
         fleet = self._get_fleet_inventory(equipment)
-        available_units = fleet["available"]
+        base_available = fleet["available"]
+        adjusted_available = max(1, int(np.round(base_available * (1.0 - operational_anomaly_penalty))))
         
-        if self.demand_model is not None:
-            try:
-                dt = pd.to_datetime(booking_date)
-                features = pd.DataFrame([{
-                    'day_of_week': dt.dayofweek,
-                    'month': dt.month,
-                    'is_weekend': 1 if dt.dayofweek >= 5 else 0,
-                    'quantity_requested': quantity
-                }])
-                pred_demand = int(np.round(self.demand_model.predict(features)[0]))
-                predicted_demand = max(10, pred_demand)
-            except Exception:
-                hash_seed = sum(ord(c) for c in (equipment + site_id + booking_date))
-                predicted_demand = quantity + (hash_seed % 15)
-        else:
-            dt = pd.to_datetime(booking_date)
-            predicted_demand = quantity + (dt.dayofweek + 1) * 2
+        dt = pd.to_datetime(booking_date)
+        
+        # XGBoost Inference
+        raw_feat = {
+            'rental_month': dt.month,
+            'rental_week': int(dt.isocalendar().week),
+            'season': 'Dry',
+            'equipment_type': equipment,
+            'site_id': site_id
+        }
+        df_dummy = pd.get_dummies(pd.DataFrame([raw_feat]))
+        if self.model_features:
+            df_dummy = df_dummy.reindex(columns=self.model_features, fill_value=0)
+            
+        pred_demand = int(np.round(self.demand_model.predict(df_dummy)[0]))
+        predicted_demand = max(1, pred_demand)
 
-        gap = max(0, quantity - available_units)
-        capacity_ratio = round(available_units / max(1, quantity), 2)
-        
+        # Random Forest Return Inference
+        features_return = pd.DataFrame([{
+            'customer_score': 85.0,
+            'day_of_week': dt.dayofweek,
+            'month': dt.month
+        }])
+        prob_array = self.return_model.predict_proba(features_return)[0]
+        raw_return_prob = float(prob_array[1] if len(prob_array) > 1 else prob_array[0])
+        adjusted_return_prob = round(max(10.0, (raw_return_prob * 100.0) - (operational_anomaly_penalty * 100.0)), 1)
+
+        gap = max(0, quantity - adjusted_available)
+        capacity_ratio = round(adjusted_available / max(1, quantity), 2)
+
         if gap == 0:
             fulfillment_confidence = 100.0 if capacity_ratio >= 1.5 else 90.0
             risk_level = "LOW"
@@ -114,35 +100,69 @@ class FleetSenseEngine:
 
         rain_prob = f"{(len(equipment) * 7 + len(site_id) * 3) % 60 + 10}%"
 
+        demand_constraints_at_risk = []
+        if risk_level in ["HIGH", "MEDIUM"]:
+            demand_constraints_at_risk.append({
+                "constraint_type": "QUANTITY_FULFILLMENT_SHORTAGE",
+                "impact_severity": risk_level,
+                "description": f"Yard available inventory ({adjusted_available} units) cannot satisfy inquiry requested quantity ({quantity} units)."
+            })
+            demand_constraints_at_risk.append({
+                "constraint_type": "SAFETY_BUFFER_DEPLETION",
+                "impact_severity": "HIGH" if gap > 3 else "MEDIUM",
+                "description": f"Shortage gap of {gap} units breaches safety stock buffer threshold."
+            })
+            demand_constraints_at_risk.append({
+                "constraint_type": "DELIVERY_SCHEDULE_SLIPPAGE",
+                "impact_severity": "MEDIUM",
+                "description": f"Risk of project start delay at site {site_id} if turnaround maintenance is not accelerated by 24h."
+            })
+            if operational_anomaly_penalty > 0:
+                demand_constraints_at_risk.append({
+                    "constraint_type": "OPERATIONAL_ANOMALY_CAPACITY_SHOCK",
+                    "impact_severity": "HIGH",
+                    "description": f"Live telemetry anomalies penalize return probability by -{operational_anomaly_penalty*100:.0f}%, constricting yard buffer."
+                })
+        else:
+            demand_constraints_at_risk.append({
+                "constraint_type": "NONE",
+                "impact_severity": "LOW",
+                "description": "Yard inventory fully satisfies inquiry with sufficient safety stock buffer capacity."
+            })
+
         return {
             "inquiry": {
                 "equipment_type": equipment,
                 "quantity_requested": quantity,
                 "site_id": site_id,
-                "booking_date": booking_date,
-                "site_city": "Bengaluru"
+                "booking_date": booking_date
             },
             "metrics": {
                 "predicted_demand": predicted_demand,
-                "expected_available": available_units,
+                "expected_available": adjusted_available,
                 "shortage_gap": gap,
                 "capacity_ratio": capacity_ratio,
-                "fulfillment_confidence_pct": fulfillment_confidence
+                "fulfillment_confidence_pct": fulfillment_confidence,
+                "return_probability_pct": adjusted_return_prob
+            },
+            "module2_feedback_applied": {
+                "penalty_factor": operational_anomaly_penalty,
+                "status": "OPERATIONAL_INTELLIGENCE_INTEGRATED" if operational_anomaly_penalty > 0 else "BASELINE"
             },
             "risk_analysis": {
                 "overall_risk_level": risk_level,
+                "demand_constraints_at_risk": demand_constraints_at_risk,
                 "risk_breakdown_pct": {
                     "turnaround_maintenance": 50.0 if gap > 0 else 30.0,
                     "weather_rain": 30.0 if int(rain_prob.strip('%')) > 35 else 20.0,
-                    "return_delays": 20.0
+                    "return_delays": 20.0 + (operational_anomaly_penalty * 30)
                 }
             },
             "underlying_context_factors": {
                 "rain_probability": rain_prob,
-                "weather_condition": "Moderate Rain" if int(rain_prob.strip('%')) > 35 else "Clear",
                 "units_in_turnaround_maintenance": fleet["turnaround"],
                 "total_fleet_units": fleet["total"],
-                "average_on_time_return_probability": "91%"
+                "average_on_time_return_probability": f"{adjusted_return_prob}%"
             }
         }
 

@@ -1,0 +1,76 @@
+customer_id,company_name,industry,assigned_site_id,historical_rentals,historical_extensions,late_return_rate,reliability_score,early_return_rate,average_rental_duration,average_extension_days,customer_risk_score
+CUS001,L&T Construction Ltd,Metro Rail,SITE001,72,6,0.27,0.73,0.05,14.0,0.1,0.195
+CUS002,Shapoorji Pallonji Infra,Highway,SITE002,57,10,0.02,0.98,0.05,15.9,0.2,0.082
+CUS003,Dilip Buildcon Ltd,Commercial,SITE003,19,2,0.15,0.88,0.05,14.0,0.1,0.132
+CUS004,Afcons Infrastructure,Smart City,SITE004,26,3,0.03,0.94,0.05,13.7,0.1,0.064
+CUS005,IRB Infrastructure Developers,Airport,SITE005,40,10,0.23,0.76,0.05,11.8,0.2,0.238
+CUS006,NCC Limited,Port,SITE006,65,15,0.1,0.91,0.05,12.8,0.2,0.152
+CUS007,Hindustan Construction Co,Industrial,SITE007,30,6,0.07,0.92,0.05,14.3,0.2,0.122
+CUS008,Simplex Infrastructures,Energy,SITE008,24,1,0.04,0.99,0.05,16.1,0.0,0.041
+CUS009,GMR Infrastructure,Highway,SITE009,78,8,0.2,0.84,0.05,13.1,0.1,0.161
+CUS010,GVK Power & Infrastructure,Industrial,SITE010,30,6,0.08,0.88,0.05,14.6,0.2,0.128
+CUS011,Gammon India Ltd,Residential,SITE011,31,0,0.26,0.71,0.05,14.6,0.0,0.156
+CUS012,J Kumar Infraprojects,Energy,SITE012,15,14,0.24,0.75,0.05,14.0,0.9,0.517
+CUS013,KPTL Engineering Ltd,Energy,SITE013,28,0,0.09,0.94,0.05,14.2,0.0,0.054
+CUS014,ITD Cementation India,Railway,SITE014,37,6,0.06,0.9,0.05,16.8,0.2,0.101
+CUS015,KNR Constructions,Water Infrastructure,SITE015,14,3,0.21,0.81,0.05,12.0,0.2,0.212
+CUS016,PNC Infratech Ltd,Commercial,SITE016,28,7,0.06,0.97,0.05,12.5,0.2,0.136
+CUS017,PSP Projects Ltd,Bridge,SITE017,37,4,0.26,0.71,0.05,13.8,0.1,0.199
+CUS018,Ahluwalia Contracts India,Highway,SITE018,68,13,0.26,0.79,0.05,14.8,0.2,0.232
+CUS019,Ramky Infrastructure,Port,SITE019,39,3,0.18,0.82,0.05,12.8,0.1,0.139
+CUS020,SPMC Infra Pvt Ltd,Metro Rail,SITE020,79,10,0.25,0.71,0.05,14.4,0.1,0.201
+CUS021,ABC Infra Pvt Ltd,Metro Rail,SITE001,80,12,0.23,0.8,0.05,13.2,0.1,0.198
+CUS022,Skyline Constructions,Highway,SITE002,75,5,0.21,0.83,0.05,14.7,0.1,0.153
+CUS023,MetroBuild Engineers,Commercial,SITE003,17,4,0.14,0.9,0.05,15.1,0.2,0.178
+CUS024,GreenEarth Infrastructure,Smart City,SITE004,13,0,0.29,0.75,0.05,16.1,0.0,0.174
+CUS025,Prime Civil Projects,Airport,SITE005,56,9,0.31,0.96,0.05,13.0,0.2,0.25
+CUS026,Zenith Infrastructure,Port,SITE006,79,8,0.14,0.83,0.05,12.7,0.1,0.125
+CUS027,UrbanEdge Developers,Industrial,SITE007,25,0,0.09,0.88,0.05,14.9,0.0,0.054
+CUS028,Apex Engineering,Energy,SITE008,34,3,0.13,0.87,0.05,13.2,0.1,0.113
+CUS029,Shakti Infra,Highway,SITE009,55,6,0.04,0.98,0.05,14.6,0.1,0.068
+CUS030,BuildMax Projects,Industrial,SITE010,16,0,0.01,0.98,0.05,14.5,0.0,0.006
+CUS031,Southern Earth Movers,Residential,SITE011,34,0,0.24,0.73,0.05,14.1,0.0,0.144
+CUS032,BlueRock Infrastructure,Energy,SITE012,22,3,0.2,0.81,0.05,12.2,0.1,0.175
+CUS033,Pioneer Civil Works,Energy,SITE013,39,5,0.11,0.93,0.05,14.8,0.1,0.117
+CUS034,National Builders,Railway,SITE014,53,8,0.21,0.83,0.05,13.4,0.2,0.186
+CUS035,Future Foundations,Water Infrastructure,SITE015,30,0,0.23,0.77,0.05,13.4,0.0,0.138
+CUS036,Vanguard Infraworks,Commercial,SITE016,18,1,0.2,0.76,0.05,15.2,0.1,0.142
+CUS037,Everest Heavy Civil,Bridge,SITE017,12,2,0.02,1.0,0.05,12.5,0.2,0.079
+CUS038,Titan Earthworks,Highway,SITE018,47,8,0.01,0.52,0.05,14.3,0.2,0.074
+CUS039,Prism Structural Projects,Port,SITE019,48,5,0.14,0.87,0.05,14.7,0.1,0.126
+CUS040,Matrix Infra Projects,Metro Rail,SITE020,54,13,0.1,0.88,0.05,13.6,0.2,0.156
+CUS041,Orion Heavy Engineering,Metro Rail,SITE001,62,6,0.14,0.84,0.05,14.3,0.1,0.123
+CUS042,Suryodaya Constructions,Highway,SITE002,37,4,0.02,1.0,0.05,15.5,0.1,0.055
+CUS043,Navbharat Earthmovers,Commercial,SITE003,33,7,0.2,0.78,0.05,13.5,0.2,0.205
+CUS044,Kaveri Infra Projects,Smart City,SITE004,18,0,0.23,0.77,0.05,12.4,0.0,0.138
+CUS045,Deccan Civil Works,Airport,SITE005,74,3,0.01,1.0,0.05,14.0,0.0,0.022
+CUS046,Vidyut Infra Engineers,Port,SITE006,77,7,0.23,0.82,0.05,13.4,0.1,0.174
+CUS047,Ganga Structural Solutions,Industrial,SITE007,36,0,0.02,1.0,0.05,12.9,0.0,0.012
+CUS048,Godavari Engineering,Energy,SITE008,12,0,0.29,0.74,0.05,15.7,0.0,0.174
+CUS049,Coromandel Construction,Highway,SITE009,56,11,0.22,0.74,0.05,13.2,0.2,0.211
+CUS050,Malabar Infra Tech,Residential,SITE011,78,12,0.09,0.88,0.05,14.2,0.2,0.116
+CUS051,Sahyadri Civil Projects,Residential,SITE011,18,4,0.04,0.93,0.05,13.5,0.2,0.113
+CUS052,Vindhya Engineering Works,Energy,SITE012,17,1,0.06,0.98,0.05,13.6,0.1,0.06
+CUS053,Nilgiri Infra Corp,Energy,SITE013,17,3,0.05,1.0,0.05,17.3,0.2,0.101
+CUS054,Satpura Heavy Machinery,Railway,SITE014,68,14,0.24,0.78,0.05,13.3,0.2,0.226
+CUS055,Aravalli Developers,Water Infrastructure,SITE015,19,0,0.18,0.86,0.05,11.4,0.0,0.108
+CUS056,Thar Infra Services,Commercial,SITE016,26,4,0.27,0.74,0.05,13.5,0.2,0.224
+CUS057,Chola Structural Engineering,Bridge,SITE017,35,2,0.04,1.0,0.05,16.1,0.1,0.047
+CUS058,Pandyan Earthmovers,Highway,SITE018,63,12,0.18,0.86,0.05,14.3,0.2,0.184
+CUS059,Chera Civil Constructions,Port,SITE019,74,12,0.04,0.94,0.05,14.4,0.2,0.089
+CUS060,Pallava Infra Ltd,Metro Rail,SITE020,43,3,0.04,0.98,0.05,14.2,0.1,0.052
+CUS061,Hooghly Engineering Works,Metro Rail,SITE001,38,3,0.1,0.87,0.05,12.7,0.1,0.092
+CUS062,Utkal Infrastructure,Highway,SITE002,59,13,0.17,0.8,0.05,13.9,0.2,0.19
+CUS063,Kalinga Civil Developers,Commercial,SITE003,26,5,0.02,0.96,0.05,14.0,0.2,0.089
+CUS064,Brahmaputra Structural Ltd,Smart City,SITE004,20,3,0.08,0.91,0.05,14.0,0.1,0.108
+CUS065,Konkan Heavy Infrastructure,Airport,SITE005,73,15,0.34,0.51,0.05,13.8,0.2,0.286
+CUS066,Maratha Earthmovers,Port,SITE006,47,7,0.23,0.8,0.05,14.3,0.1,0.198
+CUS067,Rajputana Civil Projects,Industrial,SITE007,17,2,0.24,0.73,0.05,13.0,0.1,0.191
+CUS068,Bundelkhand Infra Works,Energy,SITE008,38,4,0.02,1.0,0.05,15.1,0.1,0.054
+CUS069,Purvanchal Developers,Highway,SITE009,43,7,0.18,0.84,0.05,14.5,0.2,0.173
+CUS070,Avadh Construction Ltd,Industrial,SITE010,28,7,0.19,0.86,0.05,13.3,0.2,0.214
+CUS071,Mithila Heavy Infra,Residential,SITE011,8,1,0.2,0.76,0.05,12.4,0.1,0.17
+CUS072,Magadh Structural Projects,Energy,SITE012,6,1,0.15,0.9,0.05,13.5,0.2,0.157
+CUS073,Vidarbha Engineering Corp,Energy,SITE013,29,0,0.11,0.86,0.05,14.1,0.0,0.066
+CUS074,Khandesh Civil Services,Railway,SITE014,59,5,0.15,0.84,0.05,13.8,0.1,0.124
+CUS075,Rayalaseema Earthworks,Water Infrastructure,SITE015,11,2,0.06,0.96,0.05,14.7,0.2,0.109

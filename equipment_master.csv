@@ -1,0 +1,10 @@
+equipment_type,total_units,available_units,in_turnaround
+Backhoe Loader,20,6,2
+Bulldozer,30,11,1
+Dump Truck,12,3,1
+Excavator,48,22,3
+Forklift,12,6,0
+Motor Grader,20,10,1
+Road Roller,14,3,2
+Skid Steer Loader,18,8,1
+Wheel Loader,26,11,3

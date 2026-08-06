@@ -1,0 +1,1231 @@
+date,city,weather_condition,rain_probability,temperature
+2026-05-01,Chennai,Clear,0.13,29
+2026-05-01,Vellore,Clear,0.24,35
+2026-05-01,Bengaluru,Clear,0.04,37
+2026-05-01,Visakhapatnam,Clear,0.21,32
+2026-05-01,Coimbatore,Clear,0.14,33
+2026-05-01,Vijayawada,Clear,0.18,28
+2026-05-01,Hyderabad,Clear,0.22,36
+2026-05-01,Pune,Clear,0.05,38
+2026-05-01,Mysuru,Clear,0.24,31
+2026-05-01,Kochi,Clear,0.02,36
+2026-05-02,Chennai,Clear,0.18,38
+2026-05-02,Vellore,Clear,0.17,35
+2026-05-02,Bengaluru,Clear,0.01,35
+2026-05-02,Visakhapatnam,Clear,0.21,36
+2026-05-02,Coimbatore,Clear,0.25,31
+2026-05-02,Vijayawada,Clear,0.15,35
+2026-05-02,Hyderabad,Clear,0.12,36
+2026-05-02,Pune,Clear,0.23,37
+2026-05-02,Mysuru,Clear,0.1,35
+2026-05-02,Kochi,Clear,0.17,28
+2026-05-03,Chennai,Clear,0.22,29
+2026-05-03,Vellore,Clear,0.13,31
+2026-05-03,Bengaluru,Clear,0.08,36
+2026-05-03,Visakhapatnam,Clear,0.22,31
+2026-05-03,Coimbatore,Clear,0.22,38
+2026-05-03,Vijayawada,Clear,0.22,35
+2026-05-03,Hyderabad,Clear,0.04,36
+2026-05-03,Pune,Clear,0.11,38
+2026-05-03,Mysuru,Clear,0.17,34
+2026-05-03,Kochi,Clear,0.18,37
+2026-05-04,Chennai,Clear,0.14,30
+2026-05-04,Vellore,Clear,0.06,38
+2026-05-04,Bengaluru,Clear,0.04,31
+2026-05-04,Visakhapatnam,Clear,0.14,31
+2026-05-04,Coimbatore,Clear,0.24,38
+2026-05-04,Vijayawada,Clear,0.12,33
+2026-05-04,Hyderabad,Clear,0.08,34
+2026-05-04,Pune,Clear,0.13,33
+2026-05-04,Mysuru,Clear,0.16,33
+2026-05-04,Kochi,Clear,0.17,35
+2026-05-05,Chennai,Clear,0.09,30
+2026-05-05,Vellore,Clear,0.16,37
+2026-05-05,Bengaluru,Clear,0.04,31
+2026-05-05,Visakhapatnam,Clear,0.13,33
+2026-05-05,Coimbatore,Clear,0.1,34
+2026-05-05,Vijayawada,Clear,0.2,33
+2026-05-05,Hyderabad,Clear,0.22,32
+2026-05-05,Pune,Clear,0.05,33
+2026-05-05,Mysuru,Clear,0.17,37
+2026-05-05,Kochi,Clear,0.23,34
+2026-05-06,Chennai,Clear,0.15,29
+2026-05-06,Vellore,Clear,0.0,29
+2026-05-06,Bengaluru,Clear,0.14,28
+2026-05-06,Visakhapatnam,Clear,0.2,30
+2026-05-06,Coimbatore,Clear,0.06,33
+2026-05-06,Vijayawada,Clear,0.1,29
+2026-05-06,Hyderabad,Clear,0.13,34
+2026-05-06,Pune,Clear,0.24,32
+2026-05-06,Mysuru,Clear,0.24,29
+2026-05-06,Kochi,Clear,0.13,32
+2026-05-07,Chennai,Clear,0.23,30
+2026-05-07,Vellore,Clear,0.21,29
+2026-05-07,Bengaluru,Clear,0.23,32
+2026-05-07,Visakhapatnam,Clear,0.06,35
+2026-05-07,Coimbatore,Clear,0.05,38
+2026-05-07,Vijayawada,Clear,0.03,38
+2026-05-07,Hyderabad,Clear,0.18,35
+2026-05-07,Pune,Clear,0.15,35
+2026-05-07,Mysuru,Clear,0.11,38
+2026-05-07,Kochi,Clear,0.08,36
+2026-05-08,Chennai,Clear,0.16,29
+2026-05-08,Vellore,Clear,0.11,30
+2026-05-08,Bengaluru,Clear,0.09,30
+2026-05-08,Visakhapatnam,Clear,0.08,37
+2026-05-08,Coimbatore,Clear,0.25,38
+2026-05-08,Vijayawada,Clear,0.14,32
+2026-05-08,Hyderabad,Clear,0.05,37
+2026-05-08,Pune,Clear,0.22,34
+2026-05-08,Mysuru,Clear,0.16,36
+2026-05-08,Kochi,Clear,0.17,28
+2026-05-09,Chennai,Clear,0.22,36
+2026-05-09,Vellore,Clear,0.04,34
+2026-05-09,Bengaluru,Clear,0.23,35
+2026-05-09,Visakhapatnam,Clear,0.18,37
+2026-05-09,Coimbatore,Clear,0.21,36
+2026-05-09,Vijayawada,Clear,0.15,29
+2026-05-09,Hyderabad,Clear,0.08,34
+2026-05-09,Pune,Clear,0.05,30
+2026-05-09,Mysuru,Clear,0.23,38
+2026-05-09,Kochi,Clear,0.02,33
+2026-05-10,Chennai,Clear,0.23,38
+2026-05-10,Vellore,Clear,0.14,30
+2026-05-10,Bengaluru,Clear,0.13,33
+2026-05-10,Visakhapatnam,Clear,0.12,37
+2026-05-10,Coimbatore,Clear,0.08,31
+2026-05-10,Vijayawada,Clear,0.06,36
+2026-05-10,Hyderabad,Clear,0.08,34
+2026-05-10,Pune,Clear,0.22,33
+2026-05-10,Mysuru,Clear,0.03,29
+2026-05-10,Kochi,Clear,0.02,31
+2026-05-11,Chennai,Clear,0.16,31
+2026-05-11,Vellore,Clear,0.22,37
+2026-05-11,Bengaluru,Clear,0.06,33
+2026-05-11,Visakhapatnam,Clear,0.04,30
+2026-05-11,Coimbatore,Clear,0.06,33
+2026-05-11,Vijayawada,Clear,0.06,38
+2026-05-11,Hyderabad,Clear,0.06,37
+2026-05-11,Pune,Clear,0.15,30
+2026-05-11,Mysuru,Clear,0.09,28
+2026-05-11,Kochi,Clear,0.19,29
+2026-05-12,Chennai,Clear,0.03,34
+2026-05-12,Vellore,Clear,0.12,34
+2026-05-12,Bengaluru,Clear,0.18,34
+2026-05-12,Visakhapatnam,Clear,0.0,33
+2026-05-12,Coimbatore,Clear,0.05,35
+2026-05-12,Vijayawada,Clear,0.09,35
+2026-05-12,Hyderabad,Clear,0.02,33
+2026-05-12,Pune,Clear,0.05,28
+2026-05-12,Mysuru,Clear,0.19,34
+2026-05-12,Kochi,Clear,0.06,28
+2026-05-13,Chennai,Clear,0.02,37
+2026-05-13,Vellore,Clear,0.18,35
+2026-05-13,Bengaluru,Clear,0.16,35
+2026-05-13,Visakhapatnam,Clear,0.04,37
+2026-05-13,Coimbatore,Clear,0.17,28
+2026-05-13,Vijayawada,Clear,0.0,34
+2026-05-13,Hyderabad,Clear,0.24,35
+2026-05-13,Pune,Clear,0.11,30
+2026-05-13,Mysuru,Clear,0.19,37
+2026-05-13,Kochi,Clear,0.09,36
+2026-05-14,Chennai,Clear,0.08,31
+2026-05-14,Vellore,Clear,0.03,32
+2026-05-14,Bengaluru,Clear,0.0,32
+2026-05-14,Visakhapatnam,Clear,0.02,38
+2026-05-14,Coimbatore,Clear,0.23,34
+2026-05-14,Vijayawada,Clear,0.19,29
+2026-05-14,Hyderabad,Clear,0.2,37
+2026-05-14,Pune,Clear,0.11,28
+2026-05-14,Mysuru,Clear,0.05,29
+2026-05-14,Kochi,Clear,0.19,36
+2026-05-15,Chennai,Clear,0.0,34
+2026-05-15,Vellore,Clear,0.18,30
+2026-05-15,Bengaluru,Clear,0.08,29
+2026-05-15,Visakhapatnam,Clear,0.23,30
+2026-05-15,Coimbatore,Clear,0.08,33
+2026-05-15,Vijayawada,Clear,0.05,38
+2026-05-15,Hyderabad,Clear,0.17,31
+2026-05-15,Pune,Clear,0.22,29
+2026-05-15,Mysuru,Clear,0.2,28
+2026-05-15,Kochi,Clear,0.07,32
+2026-05-16,Chennai,Clear,0.07,38
+2026-05-16,Vellore,Clear,0.14,36
+2026-05-16,Bengaluru,Clear,0.24,37
+2026-05-16,Visakhapatnam,Clear,0.08,36
+2026-05-16,Coimbatore,Clear,0.2,36
+2026-05-16,Vijayawada,Clear,0.18,33
+2026-05-16,Hyderabad,Clear,0.17,29
+2026-05-16,Pune,Clear,0.02,30
+2026-05-16,Mysuru,Clear,0.01,35
+2026-05-16,Kochi,Clear,0.18,31
+2026-05-17,Chennai,Clear,0.06,31
+2026-05-17,Vellore,Clear,0.0,33
+2026-05-17,Bengaluru,Clear,0.03,37
+2026-05-17,Visakhapatnam,Clear,0.02,37
+2026-05-17,Coimbatore,Clear,0.05,31
+2026-05-17,Vijayawada,Clear,0.06,34
+2026-05-17,Hyderabad,Clear,0.19,38
+2026-05-17,Pune,Clear,0.13,36
+2026-05-17,Mysuru,Clear,0.09,36
+2026-05-17,Kochi,Clear,0.09,36
+2026-05-18,Chennai,Clear,0.08,28
+2026-05-18,Vellore,Clear,0.22,30
+2026-05-18,Bengaluru,Clear,0.14,30
+2026-05-18,Visakhapatnam,Clear,0.12,33
+2026-05-18,Coimbatore,Clear,0.11,32
+2026-05-18,Vijayawada,Clear,0.07,38
+2026-05-18,Hyderabad,Clear,0.02,36
+2026-05-18,Pune,Clear,0.21,29
+2026-05-18,Mysuru,Clear,0.16,33
+2026-05-18,Kochi,Clear,0.07,28
+2026-05-19,Chennai,Clear,0.14,37
+2026-05-19,Vellore,Clear,0.22,37
+2026-05-19,Bengaluru,Clear,0.09,38
+2026-05-19,Visakhapatnam,Clear,0.21,37
+2026-05-19,Coimbatore,Clear,0.03,29
+2026-05-19,Vijayawada,Clear,0.16,28
+2026-05-19,Hyderabad,Clear,0.23,37
+2026-05-19,Pune,Clear,0.13,34
+2026-05-19,Mysuru,Clear,0.14,31
+2026-05-19,Kochi,Clear,0.21,28
+2026-05-20,Chennai,Clear,0.17,34
+2026-05-20,Vellore,Clear,0.13,37
+2026-05-20,Bengaluru,Clear,0.18,38
+2026-05-20,Visakhapatnam,Clear,0.03,35
+2026-05-20,Coimbatore,Clear,0.16,36
+2026-05-20,Vijayawada,Clear,0.11,29
+2026-05-20,Hyderabad,Clear,0.05,31
+2026-05-20,Pune,Clear,0.11,34
+2026-05-20,Mysuru,Clear,0.17,36
+2026-05-20,Kochi,Clear,0.11,37
+2026-05-21,Chennai,Clear,0.22,31
+2026-05-21,Vellore,Clear,0.24,35
+2026-05-21,Bengaluru,Clear,0.05,30
+2026-05-21,Visakhapatnam,Clear,0.0,32
+2026-05-21,Coimbatore,Clear,0.07,31
+2026-05-21,Vijayawada,Clear,0.1,32
+2026-05-21,Hyderabad,Clear,0.08,28
+2026-05-21,Pune,Clear,0.19,38
+2026-05-21,Mysuru,Clear,0.25,33
+2026-05-21,Kochi,Clear,0.23,29
+2026-05-22,Chennai,Clear,0.01,31
+2026-05-22,Vellore,Clear,0.1,35
+2026-05-22,Bengaluru,Clear,0.17,37
+2026-05-22,Visakhapatnam,Clear,0.23,30
+2026-05-22,Coimbatore,Clear,0.12,32
+2026-05-22,Vijayawada,Clear,0.08,31
+2026-05-22,Hyderabad,Clear,0.22,32
+2026-05-22,Pune,Clear,0.04,30
+2026-05-22,Mysuru,Clear,0.02,30
+2026-05-22,Kochi,Clear,0.09,30
+2026-05-23,Chennai,Clear,0.19,37
+2026-05-23,Vellore,Clear,0.14,36
+2026-05-23,Bengaluru,Clear,0.16,28
+2026-05-23,Visakhapatnam,Clear,0.21,36
+2026-05-23,Coimbatore,Clear,0.17,33
+2026-05-23,Vijayawada,Clear,0.15,31
+2026-05-23,Hyderabad,Clear,0.15,32
+2026-05-23,Pune,Clear,0.08,38
+2026-05-23,Mysuru,Clear,0.16,37
+2026-05-23,Kochi,Clear,0.12,31
+2026-05-24,Chennai,Clear,0.03,34
+2026-05-24,Vellore,Clear,0.05,33
+2026-05-24,Bengaluru,Clear,0.16,38
+2026-05-24,Visakhapatnam,Clear,0.14,33
+2026-05-24,Coimbatore,Clear,0.17,38
+2026-05-24,Vijayawada,Clear,0.21,33
+2026-05-24,Hyderabad,Clear,0.23,35
+2026-05-24,Pune,Clear,0.1,37
+2026-05-24,Mysuru,Clear,0.1,30
+2026-05-24,Kochi,Clear,0.04,28
+2026-05-25,Chennai,Clear,0.07,33
+2026-05-25,Vellore,Clear,0.06,37
+2026-05-25,Bengaluru,Clear,0.14,36
+2026-05-25,Visakhapatnam,Clear,0.2,38
+2026-05-25,Coimbatore,Clear,0.07,28
+2026-05-25,Vijayawada,Clear,0.11,34
+2026-05-25,Hyderabad,Clear,0.13,33
+2026-05-25,Pune,Clear,0.06,30
+2026-05-25,Mysuru,Clear,0.16,34
+2026-05-25,Kochi,Clear,0.1,33
+2026-05-26,Chennai,Clear,0.17,38
+2026-05-26,Vellore,Clear,0.13,32
+2026-05-26,Bengaluru,Clear,0.07,35
+2026-05-26,Visakhapatnam,Clear,0.08,33
+2026-05-26,Coimbatore,Clear,0.22,34
+2026-05-26,Vijayawada,Clear,0.14,29
+2026-05-26,Hyderabad,Clear,0.08,28
+2026-05-26,Pune,Clear,0.09,38
+2026-05-26,Mysuru,Clear,0.0,34
+2026-05-26,Kochi,Clear,0.14,38
+2026-05-27,Chennai,Clear,0.14,29
+2026-05-27,Vellore,Clear,0.01,33
+2026-05-27,Bengaluru,Clear,0.02,35
+2026-05-27,Visakhapatnam,Clear,0.18,31
+2026-05-27,Coimbatore,Clear,0.03,30
+2026-05-27,Vijayawada,Clear,0.15,36
+2026-05-27,Hyderabad,Clear,0.12,30
+2026-05-27,Pune,Clear,0.01,37
+2026-05-27,Mysuru,Clear,0.15,35
+2026-05-27,Kochi,Clear,0.1,31
+2026-05-28,Chennai,Clear,0.16,28
+2026-05-28,Vellore,Clear,0.25,29
+2026-05-28,Bengaluru,Clear,0.22,37
+2026-05-28,Visakhapatnam,Clear,0.0,36
+2026-05-28,Coimbatore,Clear,0.17,28
+2026-05-28,Vijayawada,Clear,0.09,29
+2026-05-28,Hyderabad,Clear,0.22,32
+2026-05-28,Pune,Clear,0.09,28
+2026-05-28,Mysuru,Clear,0.14,31
+2026-05-28,Kochi,Clear,0.23,28
+2026-05-29,Chennai,Clear,0.09,32
+2026-05-29,Vellore,Clear,0.02,31
+2026-05-29,Bengaluru,Clear,0.17,32
+2026-05-29,Visakhapatnam,Clear,0.05,36
+2026-05-29,Coimbatore,Clear,0.24,35
+2026-05-29,Vijayawada,Clear,0.03,35
+2026-05-29,Hyderabad,Clear,0.07,34
+2026-05-29,Pune,Clear,0.13,30
+2026-05-29,Mysuru,Clear,0.16,31
+2026-05-29,Kochi,Clear,0.02,36
+2026-05-30,Chennai,Clear,0.24,29
+2026-05-30,Vellore,Clear,0.24,29
+2026-05-30,Bengaluru,Clear,0.19,32
+2026-05-30,Visakhapatnam,Clear,0.07,37
+2026-05-30,Coimbatore,Clear,0.25,34
+2026-05-30,Vijayawada,Clear,0.09,38
+2026-05-30,Hyderabad,Clear,0.2,36
+2026-05-30,Pune,Clear,0.01,28
+2026-05-30,Mysuru,Clear,0.05,30
+2026-05-30,Kochi,Clear,0.15,33
+2026-05-31,Chennai,Clear,0.22,29
+2026-05-31,Vellore,Clear,0.08,36
+2026-05-31,Bengaluru,Clear,0.21,34
+2026-05-31,Visakhapatnam,Clear,0.16,28
+2026-05-31,Coimbatore,Clear,0.07,34
+2026-05-31,Vijayawada,Clear,0.23,34
+2026-05-31,Hyderabad,Clear,0.19,35
+2026-05-31,Pune,Clear,0.13,33
+2026-05-31,Mysuru,Clear,0.03,34
+2026-05-31,Kochi,Clear,0.15,28
+2026-06-01,Chennai,Rain,0.42,36
+2026-06-01,Vellore,Rain,0.43,30
+2026-06-01,Bengaluru,Rain,0.43,35
+2026-06-01,Visakhapatnam,Rain,0.55,33
+2026-06-01,Coimbatore,Rain,0.41,34
+2026-06-01,Vijayawada,Heavy Rain,0.77,33
+2026-06-01,Hyderabad,Rain,0.63,32
+2026-06-01,Pune,Heavy Rain,0.87,36
+2026-06-01,Mysuru,Rain,0.57,29
+2026-06-01,Kochi,Rain,0.41,36
+2026-06-02,Chennai,Heavy Rain,0.73,31
+2026-06-02,Vellore,Rain,0.42,34
+2026-06-02,Bengaluru,Rain,0.41,38
+2026-06-02,Visakhapatnam,Heavy Rain,0.84,36
+2026-06-02,Coimbatore,Rain,0.62,31
+2026-06-02,Vijayawada,Rain,0.48,33
+2026-06-02,Hyderabad,Heavy Rain,0.75,37
+2026-06-02,Pune,Heavy Rain,0.78,37
+2026-06-02,Mysuru,Rain,0.42,32
+2026-06-02,Kochi,Rain,0.54,33
+2026-06-03,Chennai,Rain,0.57,31
+2026-06-03,Vellore,Rain,0.5,35
+2026-06-03,Bengaluru,Rain,0.43,32
+2026-06-03,Visakhapatnam,Rain,0.54,37
+2026-06-03,Coimbatore,Heavy Rain,0.82,38
+2026-06-03,Vijayawada,Rain,0.49,29
+2026-06-03,Hyderabad,Rain,0.63,36
+2026-06-03,Pune,Heavy Rain,0.86,28
+2026-06-03,Mysuru,Heavy Rain,0.9,29
+2026-06-03,Kochi,Rain,0.56,33
+2026-06-04,Chennai,Heavy Rain,0.8,32
+2026-06-04,Vellore,Rain,0.55,34
+2026-06-04,Bengaluru,Rain,0.43,36
+2026-06-04,Visakhapatnam,Heavy Rain,0.79,36
+2026-06-04,Coimbatore,Heavy Rain,0.87,31
+2026-06-04,Vijayawada,Heavy Rain,0.76,38
+2026-06-04,Hyderabad,Heavy Rain,0.88,38
+2026-06-04,Pune,Heavy Rain,0.95,29
+2026-06-04,Mysuru,Rain,0.55,28
+2026-06-04,Kochi,Rain,0.53,34
+2026-06-05,Chennai,Rain,0.41,32
+2026-06-05,Vellore,Rain,0.67,38
+2026-06-05,Bengaluru,Rain,0.54,34
+2026-06-05,Visakhapatnam,Rain,0.42,34
+2026-06-05,Coimbatore,Heavy Rain,0.84,28
+2026-06-05,Vijayawada,Heavy Rain,0.86,35
+2026-06-05,Hyderabad,Rain,0.52,37
+2026-06-05,Pune,Heavy Rain,0.71,38
+2026-06-05,Mysuru,Rain,0.45,34
+2026-06-05,Kochi,Rain,0.64,32
+2026-06-06,Chennai,Heavy Rain,0.76,35
+2026-06-06,Vellore,Rain,0.56,29
+2026-06-06,Bengaluru,Heavy Rain,0.91,35
+2026-06-06,Visakhapatnam,Rain,0.44,38
+2026-06-06,Coimbatore,Heavy Rain,0.85,38
+2026-06-06,Vijayawada,Rain,0.63,36
+2026-06-06,Hyderabad,Rain,0.66,28
+2026-06-06,Pune,Rain,0.48,34
+2026-06-06,Mysuru,Rain,0.59,38
+2026-06-06,Kochi,Rain,0.51,38
+2026-06-07,Chennai,Rain,0.49,38
+2026-06-07,Vellore,Heavy Rain,0.94,33
+2026-06-07,Bengaluru,Heavy Rain,0.75,31
+2026-06-07,Visakhapatnam,Rain,0.46,38
+2026-06-07,Coimbatore,Heavy Rain,0.84,30
+2026-06-07,Vijayawada,Rain,0.59,34
+2026-06-07,Hyderabad,Heavy Rain,0.86,36
+2026-06-07,Pune,Rain,0.55,33
+2026-06-07,Mysuru,Heavy Rain,0.82,32
+2026-06-07,Kochi,Heavy Rain,0.93,37
+2026-06-08,Chennai,Heavy Rain,0.77,37
+2026-06-08,Vellore,Rain,0.67,34
+2026-06-08,Bengaluru,Heavy Rain,0.74,30
+2026-06-08,Visakhapatnam,Rain,0.66,35
+2026-06-08,Coimbatore,Rain,0.43,33
+2026-06-08,Vijayawada,Heavy Rain,0.83,29
+2026-06-08,Hyderabad,Rain,0.41,37
+2026-06-08,Pune,Rain,0.54,30
+2026-06-08,Mysuru,Heavy Rain,0.93,28
+2026-06-08,Kochi,Rain,0.55,33
+2026-06-09,Chennai,Heavy Rain,0.82,36
+2026-06-09,Vellore,Heavy Rain,0.71,29
+2026-06-09,Bengaluru,Heavy Rain,0.9,35
+2026-06-09,Visakhapatnam,Rain,0.6,37
+2026-06-09,Coimbatore,Heavy Rain,0.88,37
+2026-06-09,Vijayawada,Heavy Rain,0.84,30
+2026-06-09,Hyderabad,Heavy Rain,0.83,38
+2026-06-09,Pune,Heavy Rain,0.71,28
+2026-06-09,Mysuru,Rain,0.68,31
+2026-06-09,Kochi,Rain,0.49,38
+2026-06-10,Chennai,Heavy Rain,0.73,32
+2026-06-10,Vellore,Rain,0.55,29
+2026-06-10,Bengaluru,Heavy Rain,0.93,30
+2026-06-10,Visakhapatnam,Heavy Rain,0.86,38
+2026-06-10,Coimbatore,Rain,0.5,30
+2026-06-10,Vijayawada,Heavy Rain,0.73,36
+2026-06-10,Hyderabad,Rain,0.58,28
+2026-06-10,Pune,Heavy Rain,0.75,37
+2026-06-10,Mysuru,Rain,0.65,33
+2026-06-10,Kochi,Heavy Rain,0.77,30
+2026-06-11,Chennai,Heavy Rain,0.82,29
+2026-06-11,Vellore,Heavy Rain,0.73,30
+2026-06-11,Bengaluru,Heavy Rain,0.79,33
+2026-06-11,Visakhapatnam,Rain,0.49,35
+2026-06-11,Coimbatore,Heavy Rain,0.92,32
+2026-06-11,Vijayawada,Rain,0.65,36
+2026-06-11,Hyderabad,Rain,0.55,38
+2026-06-11,Pune,Heavy Rain,0.9,34
+2026-06-11,Mysuru,Rain,0.56,30
+2026-06-11,Kochi,Rain,0.44,28
+2026-06-12,Chennai,Rain,0.65,30
+2026-06-12,Vellore,Heavy Rain,0.77,38
+2026-06-12,Bengaluru,Heavy Rain,0.78,33
+2026-06-12,Visakhapatnam,Heavy Rain,0.73,37
+2026-06-12,Coimbatore,Heavy Rain,0.82,28
+2026-06-12,Vijayawada,Rain,0.57,34
+2026-06-12,Hyderabad,Heavy Rain,0.88,32
+2026-06-12,Pune,Heavy Rain,0.79,38
+2026-06-12,Mysuru,Rain,0.46,29
+2026-06-12,Kochi,Heavy Rain,0.94,34
+2026-06-13,Chennai,Rain,0.61,30
+2026-06-13,Vellore,Heavy Rain,0.84,32
+2026-06-13,Bengaluru,Rain,0.6,38
+2026-06-13,Visakhapatnam,Rain,0.68,33
+2026-06-13,Coimbatore,Heavy Rain,0.73,29
+2026-06-13,Vijayawada,Rain,0.52,29
+2026-06-13,Hyderabad,Heavy Rain,0.88,28
+2026-06-13,Pune,Rain,0.48,36
+2026-06-13,Mysuru,Rain,0.42,32
+2026-06-13,Kochi,Heavy Rain,0.74,34
+2026-06-14,Chennai,Heavy Rain,0.79,36
+2026-06-14,Vellore,Rain,0.43,33
+2026-06-14,Bengaluru,Rain,0.67,32
+2026-06-14,Visakhapatnam,Rain,0.51,34
+2026-06-14,Coimbatore,Heavy Rain,0.75,33
+2026-06-14,Vijayawada,Heavy Rain,0.74,38
+2026-06-14,Hyderabad,Rain,0.6,38
+2026-06-14,Pune,Rain,0.52,35
+2026-06-14,Mysuru,Rain,0.69,37
+2026-06-14,Kochi,Heavy Rain,0.77,37
+2026-06-15,Chennai,Rain,0.48,35
+2026-06-15,Vellore,Rain,0.62,28
+2026-06-15,Bengaluru,Heavy Rain,0.93,31
+2026-06-15,Visakhapatnam,Rain,0.69,35
+2026-06-15,Coimbatore,Heavy Rain,0.85,35
+2026-06-15,Vijayawada,Heavy Rain,0.94,29
+2026-06-15,Hyderabad,Rain,0.66,34
+2026-06-15,Pune,Rain,0.42,32
+2026-06-15,Mysuru,Rain,0.53,37
+2026-06-15,Kochi,Heavy Rain,0.88,33
+2026-06-16,Chennai,Heavy Rain,0.85,31
+2026-06-16,Vellore,Rain,0.51,32
+2026-06-16,Bengaluru,Rain,0.5,31
+2026-06-16,Visakhapatnam,Rain,0.54,38
+2026-06-16,Coimbatore,Heavy Rain,0.78,36
+2026-06-16,Vijayawada,Rain,0.66,32
+2026-06-16,Hyderabad,Heavy Rain,0.88,37
+2026-06-16,Pune,Heavy Rain,0.84,28
+2026-06-16,Mysuru,Heavy Rain,0.91,37
+2026-06-16,Kochi,Rain,0.51,34
+2026-06-17,Chennai,Rain,0.55,30
+2026-06-17,Vellore,Rain,0.48,33
+2026-06-17,Bengaluru,Rain,0.64,36
+2026-06-17,Visakhapatnam,Heavy Rain,0.88,38
+2026-06-17,Coimbatore,Heavy Rain,0.83,37
+2026-06-17,Vijayawada,Heavy Rain,0.93,36
+2026-06-17,Hyderabad,Rain,0.56,37
+2026-06-17,Pune,Heavy Rain,0.74,37
+2026-06-17,Mysuru,Heavy Rain,0.88,36
+2026-06-17,Kochi,Rain,0.62,28
+2026-06-18,Chennai,Rain,0.61,28
+2026-06-18,Vellore,Heavy Rain,0.76,33
+2026-06-18,Bengaluru,Heavy Rain,0.73,36
+2026-06-18,Visakhapatnam,Heavy Rain,0.88,30
+2026-06-18,Coimbatore,Heavy Rain,0.82,34
+2026-06-18,Vijayawada,Heavy Rain,0.74,28
+2026-06-18,Hyderabad,Heavy Rain,0.88,29
+2026-06-18,Pune,Rain,0.64,33
+2026-06-18,Mysuru,Rain,0.56,28
+2026-06-18,Kochi,Rain,0.46,33
+2026-06-19,Chennai,Heavy Rain,0.78,36
+2026-06-19,Vellore,Rain,0.4,30
+2026-06-19,Bengaluru,Rain,0.44,35
+2026-06-19,Visakhapatnam,Heavy Rain,0.93,35
+2026-06-19,Coimbatore,Rain,0.53,35
+2026-06-19,Vijayawada,Rain,0.7,36
+2026-06-19,Hyderabad,Rain,0.43,37
+2026-06-19,Pune,Heavy Rain,0.75,31
+2026-06-19,Mysuru,Heavy Rain,0.78,35
+2026-06-19,Kochi,Heavy Rain,0.93,30
+2026-06-20,Chennai,Heavy Rain,0.73,36
+2026-06-20,Vellore,Rain,0.49,29
+2026-06-20,Bengaluru,Rain,0.44,32
+2026-06-20,Visakhapatnam,Heavy Rain,0.87,38
+2026-06-20,Coimbatore,Rain,0.6,35
+2026-06-20,Vijayawada,Rain,0.49,29
+2026-06-20,Hyderabad,Rain,0.59,35
+2026-06-20,Pune,Rain,0.41,32
+2026-06-20,Mysuru,Rain,0.52,36
+2026-06-20,Kochi,Rain,0.43,38
+2026-06-21,Chennai,Rain,0.47,35
+2026-06-21,Vellore,Rain,0.67,32
+2026-06-21,Bengaluru,Rain,0.61,30
+2026-06-21,Visakhapatnam,Heavy Rain,0.77,35
+2026-06-21,Coimbatore,Heavy Rain,0.78,37
+2026-06-21,Vijayawada,Heavy Rain,0.78,31
+2026-06-21,Hyderabad,Heavy Rain,0.83,37
+2026-06-21,Pune,Rain,0.55,33
+2026-06-21,Mysuru,Rain,0.66,33
+2026-06-21,Kochi,Heavy Rain,0.72,33
+2026-06-22,Chennai,Heavy Rain,0.78,35
+2026-06-22,Vellore,Rain,0.53,36
+2026-06-22,Bengaluru,Rain,0.69,28
+2026-06-22,Visakhapatnam,Rain,0.66,35
+2026-06-22,Coimbatore,Heavy Rain,0.81,28
+2026-06-22,Vijayawada,Rain,0.56,35
+2026-06-22,Hyderabad,Heavy Rain,0.8,28
+2026-06-22,Pune,Heavy Rain,0.85,33
+2026-06-22,Mysuru,Rain,0.62,30
+2026-06-22,Kochi,Heavy Rain,0.87,30
+2026-06-23,Chennai,Heavy Rain,0.73,31
+2026-06-23,Vellore,Heavy Rain,0.74,30
+2026-06-23,Bengaluru,Rain,0.62,37
+2026-06-23,Visakhapatnam,Rain,0.65,38
+2026-06-23,Coimbatore,Rain,0.6,38
+2026-06-23,Vijayawada,Heavy Rain,0.8,29
+2026-06-23,Hyderabad,Heavy Rain,0.91,31
+2026-06-23,Pune,Rain,0.53,31
+2026-06-23,Mysuru,Heavy Rain,0.71,28
+2026-06-23,Kochi,Heavy Rain,0.79,38
+2026-06-24,Chennai,Rain,0.55,31
+2026-06-24,Vellore,Heavy Rain,0.77,35
+2026-06-24,Bengaluru,Heavy Rain,0.72,33
+2026-06-24,Visakhapatnam,Heavy Rain,0.71,38
+2026-06-24,Coimbatore,Heavy Rain,0.83,38
+2026-06-24,Vijayawada,Heavy Rain,0.77,28
+2026-06-24,Hyderabad,Heavy Rain,0.85,34
+2026-06-24,Pune,Rain,0.64,31
+2026-06-24,Mysuru,Heavy Rain,0.73,28
+2026-06-24,Kochi,Heavy Rain,0.71,36
+2026-06-25,Chennai,Rain,0.67,37
+2026-06-25,Vellore,Heavy Rain,0.88,30
+2026-06-25,Bengaluru,Heavy Rain,0.83,33
+2026-06-25,Visakhapatnam,Heavy Rain,0.75,31
+2026-06-25,Coimbatore,Heavy Rain,0.72,33
+2026-06-25,Vijayawada,Heavy Rain,0.94,36
+2026-06-25,Hyderabad,Heavy Rain,0.9,32
+2026-06-25,Pune,Rain,0.5,31
+2026-06-25,Mysuru,Rain,0.54,30
+2026-06-25,Kochi,Heavy Rain,0.89,35
+2026-06-26,Chennai,Heavy Rain,0.75,36
+2026-06-26,Vellore,Heavy Rain,0.86,28
+2026-06-26,Bengaluru,Rain,0.66,34
+2026-06-26,Visakhapatnam,Rain,0.48,38
+2026-06-26,Coimbatore,Rain,0.48,36
+2026-06-26,Vijayawada,Rain,0.68,31
+2026-06-26,Hyderabad,Heavy Rain,0.78,31
+2026-06-26,Pune,Heavy Rain,0.92,32
+2026-06-26,Mysuru,Rain,0.46,28
+2026-06-26,Kochi,Heavy Rain,0.94,29
+2026-06-27,Chennai,Heavy Rain,0.76,33
+2026-06-27,Vellore,Rain,0.68,38
+2026-06-27,Bengaluru,Heavy Rain,0.8,32
+2026-06-27,Visakhapatnam,Heavy Rain,0.93,32
+2026-06-27,Coimbatore,Rain,0.57,37
+2026-06-27,Vijayawada,Heavy Rain,0.86,32
+2026-06-27,Hyderabad,Rain,0.51,28
+2026-06-27,Pune,Heavy Rain,0.87,29
+2026-06-27,Mysuru,Heavy Rain,0.88,30
+2026-06-27,Kochi,Heavy Rain,0.93,31
+2026-06-28,Chennai,Heavy Rain,0.9,37
+2026-06-28,Vellore,Heavy Rain,0.85,34
+2026-06-28,Bengaluru,Heavy Rain,0.9,38
+2026-06-28,Visakhapatnam,Heavy Rain,0.84,37
+2026-06-28,Coimbatore,Heavy Rain,0.74,34
+2026-06-28,Vijayawada,Rain,0.55,33
+2026-06-28,Hyderabad,Heavy Rain,0.75,31
+2026-06-28,Pune,Heavy Rain,0.88,32
+2026-06-28,Mysuru,Rain,0.58,37
+2026-06-28,Kochi,Heavy Rain,0.81,33
+2026-06-29,Chennai,Rain,0.65,28
+2026-06-29,Vellore,Heavy Rain,0.87,37
+2026-06-29,Bengaluru,Rain,0.54,33
+2026-06-29,Visakhapatnam,Rain,0.53,36
+2026-06-29,Coimbatore,Rain,0.6,29
+2026-06-29,Vijayawada,Heavy Rain,0.75,32
+2026-06-29,Hyderabad,Rain,0.48,32
+2026-06-29,Pune,Rain,0.41,28
+2026-06-29,Mysuru,Heavy Rain,0.88,34
+2026-06-29,Kochi,Heavy Rain,0.84,30
+2026-06-30,Chennai,Heavy Rain,0.85,38
+2026-06-30,Vellore,Rain,0.58,32
+2026-06-30,Bengaluru,Heavy Rain,0.83,36
+2026-06-30,Visakhapatnam,Rain,0.64,30
+2026-06-30,Coimbatore,Heavy Rain,0.92,32
+2026-06-30,Vijayawada,Rain,0.64,34
+2026-06-30,Hyderabad,Heavy Rain,0.76,30
+2026-06-30,Pune,Heavy Rain,0.78,30
+2026-06-30,Mysuru,Heavy Rain,0.73,34
+2026-06-30,Kochi,Rain,0.55,29
+2026-07-01,Chennai,Rain,0.64,36
+2026-07-01,Vellore,Rain,0.53,36
+2026-07-01,Bengaluru,Rain,0.53,31
+2026-07-01,Visakhapatnam,Heavy Rain,0.94,31
+2026-07-01,Coimbatore,Heavy Rain,0.9,30
+2026-07-01,Vijayawada,Rain,0.54,34
+2026-07-01,Hyderabad,Rain,0.43,33
+2026-07-01,Pune,Rain,0.66,37
+2026-07-01,Mysuru,Heavy Rain,0.92,31
+2026-07-01,Kochi,Heavy Rain,0.83,33
+2026-07-02,Chennai,Rain,0.47,31
+2026-07-02,Vellore,Heavy Rain,0.74,34
+2026-07-02,Bengaluru,Heavy Rain,0.86,28
+2026-07-02,Visakhapatnam,Heavy Rain,0.85,35
+2026-07-02,Coimbatore,Heavy Rain,0.79,33
+2026-07-02,Vijayawada,Heavy Rain,0.88,37
+2026-07-02,Hyderabad,Rain,0.69,33
+2026-07-02,Pune,Heavy Rain,0.71,35
+2026-07-02,Mysuru,Rain,0.55,29
+2026-07-02,Kochi,Heavy Rain,0.75,29
+2026-07-03,Chennai,Rain,0.46,32
+2026-07-03,Vellore,Heavy Rain,0.71,33
+2026-07-03,Bengaluru,Heavy Rain,0.85,31
+2026-07-03,Visakhapatnam,Rain,0.41,36
+2026-07-03,Coimbatore,Rain,0.68,32
+2026-07-03,Vijayawada,Rain,0.51,29
+2026-07-03,Hyderabad,Heavy Rain,0.84,34
+2026-07-03,Pune,Heavy Rain,0.88,35
+2026-07-03,Mysuru,Rain,0.53,35
+2026-07-03,Kochi,Rain,0.55,30
+2026-07-04,Chennai,Rain,0.68,30
+2026-07-04,Vellore,Rain,0.58,33
+2026-07-04,Bengaluru,Rain,0.46,36
+2026-07-04,Visakhapatnam,Heavy Rain,0.77,38
+2026-07-04,Coimbatore,Rain,0.45,34
+2026-07-04,Vijayawada,Heavy Rain,0.91,34
+2026-07-04,Hyderabad,Heavy Rain,0.84,30
+2026-07-04,Pune,Rain,0.56,33
+2026-07-04,Mysuru,Rain,0.62,32
+2026-07-04,Kochi,Heavy Rain,0.92,34
+2026-07-05,Chennai,Rain,0.43,35
+2026-07-05,Vellore,Rain,0.65,35
+2026-07-05,Bengaluru,Rain,0.41,34
+2026-07-05,Visakhapatnam,Heavy Rain,0.89,31
+2026-07-05,Coimbatore,Heavy Rain,0.83,33
+2026-07-05,Vijayawada,Heavy Rain,0.91,29
+2026-07-05,Hyderabad,Rain,0.52,35
+2026-07-05,Pune,Heavy Rain,0.88,32
+2026-07-05,Mysuru,Rain,0.54,32
+2026-07-05,Kochi,Rain,0.68,32
+2026-07-06,Chennai,Heavy Rain,0.77,35
+2026-07-06,Vellore,Rain,0.64,28
+2026-07-06,Bengaluru,Heavy Rain,0.73,38
+2026-07-06,Visakhapatnam,Rain,0.7,32
+2026-07-06,Coimbatore,Rain,0.68,34
+2026-07-06,Vijayawada,Rain,0.57,34
+2026-07-06,Hyderabad,Rain,0.45,32
+2026-07-06,Pune,Heavy Rain,0.79,33
+2026-07-06,Mysuru,Rain,0.55,37
+2026-07-06,Kochi,Heavy Rain,0.83,29
+2026-07-07,Chennai,Heavy Rain,0.92,33
+2026-07-07,Vellore,Rain,0.49,33
+2026-07-07,Bengaluru,Heavy Rain,0.71,33
+2026-07-07,Visakhapatnam,Rain,0.43,35
+2026-07-07,Coimbatore,Rain,0.55,29
+2026-07-07,Vijayawada,Rain,0.49,28
+2026-07-07,Hyderabad,Rain,0.41,30
+2026-07-07,Pune,Rain,0.45,34
+2026-07-07,Mysuru,Heavy Rain,0.78,30
+2026-07-07,Kochi,Heavy Rain,0.79,30
+2026-07-08,Chennai,Rain,0.49,30
+2026-07-08,Vellore,Rain,0.45,30
+2026-07-08,Bengaluru,Heavy Rain,0.92,37
+2026-07-08,Visakhapatnam,Heavy Rain,0.92,29
+2026-07-08,Coimbatore,Rain,0.55,28
+2026-07-08,Vijayawada,Heavy Rain,0.93,34
+2026-07-08,Hyderabad,Rain,0.66,29
+2026-07-08,Pune,Rain,0.6,31
+2026-07-08,Mysuru,Rain,0.43,28
+2026-07-08,Kochi,Rain,0.48,30
+2026-07-09,Chennai,Heavy Rain,0.76,28
+2026-07-09,Vellore,Heavy Rain,0.76,30
+2026-07-09,Bengaluru,Heavy Rain,0.74,34
+2026-07-09,Visakhapatnam,Rain,0.7,36
+2026-07-09,Coimbatore,Rain,0.46,35
+2026-07-09,Vijayawada,Rain,0.4,35
+2026-07-09,Hyderabad,Rain,0.62,29
+2026-07-09,Pune,Rain,0.52,28
+2026-07-09,Mysuru,Heavy Rain,0.73,29
+2026-07-09,Kochi,Heavy Rain,0.91,31
+2026-07-10,Chennai,Rain,0.5,33
+2026-07-10,Vellore,Rain,0.56,36
+2026-07-10,Bengaluru,Heavy Rain,0.84,34
+2026-07-10,Visakhapatnam,Rain,0.44,29
+2026-07-10,Coimbatore,Rain,0.56,33
+2026-07-10,Vijayawada,Heavy Rain,0.88,31
+2026-07-10,Hyderabad,Heavy Rain,0.94,31
+2026-07-10,Pune,Rain,0.5,32
+2026-07-10,Mysuru,Heavy Rain,0.75,31
+2026-07-10,Kochi,Heavy Rain,0.83,30
+2026-07-11,Chennai,Rain,0.51,36
+2026-07-11,Vellore,Heavy Rain,0.89,31
+2026-07-11,Bengaluru,Heavy Rain,0.79,38
+2026-07-11,Visakhapatnam,Rain,0.53,35
+2026-07-11,Coimbatore,Heavy Rain,0.76,33
+2026-07-11,Vijayawada,Heavy Rain,0.83,32
+2026-07-11,Hyderabad,Heavy Rain,0.86,32
+2026-07-11,Pune,Rain,0.58,30
+2026-07-11,Mysuru,Heavy Rain,0.88,28
+2026-07-11,Kochi,Rain,0.63,37
+2026-07-12,Chennai,Rain,0.55,30
+2026-07-12,Vellore,Rain,0.45,37
+2026-07-12,Bengaluru,Rain,0.45,28
+2026-07-12,Visakhapatnam,Rain,0.64,32
+2026-07-12,Coimbatore,Rain,0.47,32
+2026-07-12,Vijayawada,Rain,0.65,34
+2026-07-12,Hyderabad,Rain,0.61,29
+2026-07-12,Pune,Rain,0.58,34
+2026-07-12,Mysuru,Rain,0.44,30
+2026-07-12,Kochi,Heavy Rain,0.88,36
+2026-07-13,Chennai,Rain,0.7,29
+2026-07-13,Vellore,Heavy Rain,0.86,38
+2026-07-13,Bengaluru,Rain,0.64,37
+2026-07-13,Visakhapatnam,Rain,0.42,36
+2026-07-13,Coimbatore,Rain,0.53,36
+2026-07-13,Vijayawada,Heavy Rain,0.93,29
+2026-07-13,Hyderabad,Rain,0.57,37
+2026-07-13,Pune,Rain,0.47,35
+2026-07-13,Mysuru,Rain,0.58,38
+2026-07-13,Kochi,Rain,0.53,33
+2026-07-14,Chennai,Heavy Rain,0.78,37
+2026-07-14,Vellore,Rain,0.54,32
+2026-07-14,Bengaluru,Rain,0.64,37
+2026-07-14,Visakhapatnam,Rain,0.57,36
+2026-07-14,Coimbatore,Heavy Rain,0.9,33
+2026-07-14,Vijayawada,Heavy Rain,0.88,30
+2026-07-14,Hyderabad,Rain,0.63,31
+2026-07-14,Pune,Rain,0.47,28
+2026-07-14,Mysuru,Rain,0.41,37
+2026-07-14,Kochi,Rain,0.45,32
+2026-07-15,Chennai,Rain,0.45,35
+2026-07-15,Vellore,Rain,0.43,37
+2026-07-15,Bengaluru,Rain,0.54,29
+2026-07-15,Visakhapatnam,Heavy Rain,0.9,36
+2026-07-15,Coimbatore,Heavy Rain,0.86,30
+2026-07-15,Vijayawada,Rain,0.57,37
+2026-07-15,Hyderabad,Rain,0.65,34
+2026-07-15,Pune,Rain,0.4,36
+2026-07-15,Mysuru,Heavy Rain,0.83,36
+2026-07-15,Kochi,Heavy Rain,0.85,33
+2026-07-16,Chennai,Heavy Rain,0.74,31
+2026-07-16,Vellore,Heavy Rain,0.83,28
+2026-07-16,Bengaluru,Rain,0.7,36
+2026-07-16,Visakhapatnam,Rain,0.61,28
+2026-07-16,Coimbatore,Heavy Rain,0.8,31
+2026-07-16,Vijayawada,Rain,0.4,34
+2026-07-16,Hyderabad,Heavy Rain,0.77,30
+2026-07-16,Pune,Rain,0.6,38
+2026-07-16,Mysuru,Rain,0.68,37
+2026-07-16,Kochi,Heavy Rain,0.85,34
+2026-07-17,Chennai,Heavy Rain,0.86,38
+2026-07-17,Vellore,Heavy Rain,0.91,38
+2026-07-17,Bengaluru,Rain,0.44,32
+2026-07-17,Visakhapatnam,Rain,0.6,32
+2026-07-17,Coimbatore,Heavy Rain,0.76,36
+2026-07-17,Vijayawada,Rain,0.42,37
+2026-07-17,Hyderabad,Rain,0.67,37
+2026-07-17,Pune,Rain,0.45,37
+2026-07-17,Mysuru,Rain,0.63,34
+2026-07-17,Kochi,Rain,0.65,34
+2026-07-18,Chennai,Heavy Rain,0.89,30
+2026-07-18,Vellore,Heavy Rain,0.75,30
+2026-07-18,Bengaluru,Heavy Rain,0.87,33
+2026-07-18,Visakhapatnam,Heavy Rain,0.88,30
+2026-07-18,Coimbatore,Rain,0.7,36
+2026-07-18,Vijayawada,Heavy Rain,0.76,30
+2026-07-18,Hyderabad,Rain,0.57,37
+2026-07-18,Pune,Rain,0.57,33
+2026-07-18,Mysuru,Heavy Rain,0.81,37
+2026-07-18,Kochi,Heavy Rain,0.74,36
+2026-07-19,Chennai,Rain,0.52,32
+2026-07-19,Vellore,Rain,0.51,30
+2026-07-19,Bengaluru,Rain,0.7,38
+2026-07-19,Visakhapatnam,Heavy Rain,0.91,33
+2026-07-19,Coimbatore,Rain,0.64,32
+2026-07-19,Vijayawada,Rain,0.52,31
+2026-07-19,Hyderabad,Rain,0.61,37
+2026-07-19,Pune,Rain,0.62,36
+2026-07-19,Mysuru,Heavy Rain,0.84,28
+2026-07-19,Kochi,Rain,0.65,37
+2026-07-20,Chennai,Rain,0.65,33
+2026-07-20,Vellore,Heavy Rain,0.78,32
+2026-07-20,Bengaluru,Rain,0.5,35
+2026-07-20,Visakhapatnam,Rain,0.44,37
+2026-07-20,Coimbatore,Heavy Rain,0.9,31
+2026-07-20,Vijayawada,Rain,0.47,29
+2026-07-20,Hyderabad,Heavy Rain,0.74,37
+2026-07-20,Pune,Heavy Rain,0.81,37
+2026-07-20,Mysuru,Rain,0.64,38
+2026-07-20,Kochi,Heavy Rain,0.78,35
+2026-07-21,Chennai,Rain,0.64,35
+2026-07-21,Vellore,Rain,0.58,28
+2026-07-21,Bengaluru,Rain,0.61,30
+2026-07-21,Visakhapatnam,Heavy Rain,0.76,32
+2026-07-21,Coimbatore,Heavy Rain,0.81,28
+2026-07-21,Vijayawada,Heavy Rain,0.72,37
+2026-07-21,Hyderabad,Rain,0.61,34
+2026-07-21,Pune,Heavy Rain,0.91,35
+2026-07-21,Mysuru,Heavy Rain,0.82,31
+2026-07-21,Kochi,Heavy Rain,0.86,31
+2026-07-22,Chennai,Heavy Rain,0.92,36
+2026-07-22,Vellore,Rain,0.7,32
+2026-07-22,Bengaluru,Rain,0.66,28
+2026-07-22,Visakhapatnam,Heavy Rain,0.9,36
+2026-07-22,Coimbatore,Heavy Rain,0.73,29
+2026-07-22,Vijayawada,Rain,0.58,38
+2026-07-22,Hyderabad,Heavy Rain,0.88,33
+2026-07-22,Pune,Heavy Rain,0.88,32
+2026-07-22,Mysuru,Rain,0.6,33
+2026-07-22,Kochi,Heavy Rain,0.76,28
+2026-07-23,Chennai,Heavy Rain,0.78,30
+2026-07-23,Vellore,Rain,0.51,30
+2026-07-23,Bengaluru,Rain,0.45,38
+2026-07-23,Visakhapatnam,Rain,0.53,33
+2026-07-23,Coimbatore,Heavy Rain,0.87,37
+2026-07-23,Vijayawada,Rain,0.44,35
+2026-07-23,Hyderabad,Rain,0.43,32
+2026-07-23,Pune,Heavy Rain,0.8,30
+2026-07-23,Mysuru,Rain,0.69,32
+2026-07-23,Kochi,Rain,0.61,29
+2026-07-24,Chennai,Rain,0.62,30
+2026-07-24,Vellore,Heavy Rain,0.74,33
+2026-07-24,Bengaluru,Rain,0.49,32
+2026-07-24,Visakhapatnam,Heavy Rain,0.81,29
+2026-07-24,Coimbatore,Rain,0.65,33
+2026-07-24,Vijayawada,Rain,0.69,37
+2026-07-24,Hyderabad,Rain,0.45,37
+2026-07-24,Pune,Rain,0.67,37
+2026-07-24,Mysuru,Heavy Rain,0.75,35
+2026-07-24,Kochi,Rain,0.65,30
+2026-07-25,Chennai,Heavy Rain,0.78,36
+2026-07-25,Vellore,Heavy Rain,0.91,28
+2026-07-25,Bengaluru,Rain,0.64,32
+2026-07-25,Visakhapatnam,Heavy Rain,0.91,36
+2026-07-25,Coimbatore,Rain,0.63,31
+2026-07-25,Vijayawada,Heavy Rain,0.93,37
+2026-07-25,Hyderabad,Rain,0.5,38
+2026-07-25,Pune,Rain,0.58,37
+2026-07-25,Mysuru,Heavy Rain,0.85,28
+2026-07-25,Kochi,Heavy Rain,0.77,35
+2026-07-26,Chennai,Rain,0.42,38
+2026-07-26,Vellore,Heavy Rain,0.77,37
+2026-07-26,Bengaluru,Heavy Rain,0.75,35
+2026-07-26,Visakhapatnam,Heavy Rain,0.77,28
+2026-07-26,Coimbatore,Rain,0.65,30
+2026-07-26,Vijayawada,Rain,0.66,33
+2026-07-26,Hyderabad,Rain,0.45,37
+2026-07-26,Pune,Rain,0.54,33
+2026-07-26,Mysuru,Heavy Rain,0.94,36
+2026-07-26,Kochi,Heavy Rain,0.88,32
+2026-07-27,Chennai,Rain,0.43,32
+2026-07-27,Vellore,Heavy Rain,0.72,29
+2026-07-27,Bengaluru,Rain,0.42,35
+2026-07-27,Visakhapatnam,Rain,0.5,32
+2026-07-27,Coimbatore,Rain,0.59,36
+2026-07-27,Vijayawada,Rain,0.53,36
+2026-07-27,Hyderabad,Heavy Rain,0.83,37
+2026-07-27,Pune,Rain,0.45,31
+2026-07-27,Mysuru,Rain,0.45,28
+2026-07-27,Kochi,Rain,0.45,29
+2026-07-28,Chennai,Heavy Rain,0.82,32
+2026-07-28,Vellore,Heavy Rain,0.89,32
+2026-07-28,Bengaluru,Rain,0.64,37
+2026-07-28,Visakhapatnam,Heavy Rain,0.83,32
+2026-07-28,Coimbatore,Rain,0.46,30
+2026-07-28,Vijayawada,Heavy Rain,0.76,28
+2026-07-28,Hyderabad,Rain,0.42,32
+2026-07-28,Pune,Rain,0.51,34
+2026-07-28,Mysuru,Heavy Rain,0.73,30
+2026-07-28,Kochi,Heavy Rain,0.89,37
+2026-07-29,Chennai,Heavy Rain,0.81,31
+2026-07-29,Vellore,Heavy Rain,0.8,34
+2026-07-29,Bengaluru,Heavy Rain,0.92,38
+2026-07-29,Visakhapatnam,Rain,0.48,28
+2026-07-29,Coimbatore,Rain,0.49,37
+2026-07-29,Vijayawada,Rain,0.66,31
+2026-07-29,Hyderabad,Rain,0.54,31
+2026-07-29,Pune,Heavy Rain,0.87,32
+2026-07-29,Mysuru,Heavy Rain,0.84,36
+2026-07-29,Kochi,Rain,0.41,29
+2026-07-30,Chennai,Heavy Rain,0.75,35
+2026-07-30,Vellore,Heavy Rain,0.79,29
+2026-07-30,Bengaluru,Rain,0.66,32
+2026-07-30,Visakhapatnam,Heavy Rain,0.81,34
+2026-07-30,Coimbatore,Rain,0.58,38
+2026-07-30,Vijayawada,Rain,0.64,33
+2026-07-30,Hyderabad,Rain,0.62,38
+2026-07-30,Pune,Heavy Rain,0.76,34
+2026-07-30,Mysuru,Heavy Rain,0.91,30
+2026-07-30,Kochi,Heavy Rain,0.78,37
+2026-07-31,Chennai,Rain,0.49,38
+2026-07-31,Vellore,Heavy Rain,0.93,28
+2026-07-31,Bengaluru,Rain,0.42,29
+2026-07-31,Visakhapatnam,Rain,0.46,29
+2026-07-31,Coimbatore,Rain,0.68,29
+2026-07-31,Vijayawada,Heavy Rain,0.95,33
+2026-07-31,Hyderabad,Rain,0.62,36
+2026-07-31,Pune,Heavy Rain,0.81,29
+2026-07-31,Mysuru,Rain,0.64,35
+2026-07-31,Kochi,Heavy Rain,0.75,28
+2026-08-01,Chennai,Rain,0.58,37
+2026-08-01,Vellore,Rain,0.47,33
+2026-08-01,Bengaluru,Heavy Rain,0.88,37
+2026-08-01,Visakhapatnam,Rain,0.63,36
+2026-08-01,Coimbatore,Rain,0.65,35
+2026-08-01,Vijayawada,Heavy Rain,0.84,36
+2026-08-01,Hyderabad,Rain,0.61,28
+2026-08-01,Pune,Heavy Rain,0.86,34
+2026-08-01,Mysuru,Rain,0.41,28
+2026-08-01,Kochi,Rain,0.57,29
+2026-08-02,Chennai,Heavy Rain,0.72,31
+2026-08-02,Vellore,Heavy Rain,0.74,37
+2026-08-02,Bengaluru,Rain,0.54,31
+2026-08-02,Visakhapatnam,Rain,0.61,28
+2026-08-02,Coimbatore,Heavy Rain,0.78,28
+2026-08-02,Vijayawada,Heavy Rain,0.73,31
+2026-08-02,Hyderabad,Heavy Rain,0.83,38
+2026-08-02,Pune,Heavy Rain,0.88,33
+2026-08-02,Mysuru,Rain,0.4,37
+2026-08-02,Kochi,Rain,0.46,28
+2026-08-03,Chennai,Rain,0.66,31
+2026-08-03,Vellore,Rain,0.43,38
+2026-08-03,Bengaluru,Rain,0.42,32
+2026-08-03,Visakhapatnam,Heavy Rain,0.73,37
+2026-08-03,Coimbatore,Rain,0.43,28
+2026-08-03,Vijayawada,Heavy Rain,0.93,34
+2026-08-03,Hyderabad,Heavy Rain,0.81,35
+2026-08-03,Pune,Heavy Rain,0.8,28
+2026-08-03,Mysuru,Rain,0.64,30
+2026-08-03,Kochi,Rain,0.42,38
+2026-08-04,Chennai,Heavy Rain,0.91,31
+2026-08-04,Vellore,Heavy Rain,0.92,32
+2026-08-04,Bengaluru,Rain,0.69,32
+2026-08-04,Visakhapatnam,Rain,0.52,34
+2026-08-04,Coimbatore,Heavy Rain,0.79,37
+2026-08-04,Vijayawada,Rain,0.63,30
+2026-08-04,Hyderabad,Heavy Rain,0.88,28
+2026-08-04,Pune,Heavy Rain,0.94,31
+2026-08-04,Mysuru,Rain,0.67,28
+2026-08-04,Kochi,Heavy Rain,0.76,34
+2026-08-05,Chennai,Rain,0.68,31
+2026-08-05,Vellore,Rain,0.42,38
+2026-08-05,Bengaluru,Rain,0.41,34
+2026-08-05,Visakhapatnam,Rain,0.5,38
+2026-08-05,Coimbatore,Heavy Rain,0.93,29
+2026-08-05,Vijayawada,Heavy Rain,0.74,28
+2026-08-05,Hyderabad,Rain,0.67,36
+2026-08-05,Pune,Heavy Rain,0.71,36
+2026-08-05,Mysuru,Heavy Rain,0.91,35
+2026-08-05,Kochi,Rain,0.42,38
+2026-08-06,Chennai,Heavy Rain,0.93,32
+2026-08-06,Vellore,Rain,0.46,33
+2026-08-06,Bengaluru,Rain,0.6,36
+2026-08-06,Visakhapatnam,Heavy Rain,0.78,35
+2026-08-06,Coimbatore,Heavy Rain,0.78,30
+2026-08-06,Vijayawada,Heavy Rain,0.88,32
+2026-08-06,Hyderabad,Rain,0.53,35
+2026-08-06,Pune,Heavy Rain,0.78,37
+2026-08-06,Mysuru,Rain,0.54,30
+2026-08-06,Kochi,Heavy Rain,0.88,30
+2026-08-07,Chennai,Rain,0.68,28
+2026-08-07,Vellore,Rain,0.64,34
+2026-08-07,Bengaluru,Rain,0.55,29
+2026-08-07,Visakhapatnam,Rain,0.5,29
+2026-08-07,Coimbatore,Heavy Rain,0.73,31
+2026-08-07,Vijayawada,Rain,0.56,30
+2026-08-07,Hyderabad,Heavy Rain,0.83,37
+2026-08-07,Pune,Heavy Rain,0.79,37
+2026-08-07,Mysuru,Heavy Rain,0.79,29
+2026-08-07,Kochi,Rain,0.56,29
+2026-08-08,Chennai,Rain,0.65,30
+2026-08-08,Vellore,Heavy Rain,0.89,36
+2026-08-08,Bengaluru,Heavy Rain,0.84,29
+2026-08-08,Visakhapatnam,Rain,0.49,38
+2026-08-08,Coimbatore,Rain,0.55,32
+2026-08-08,Vijayawada,Rain,0.57,37
+2026-08-08,Hyderabad,Rain,0.61,28
+2026-08-08,Pune,Rain,0.6,34
+2026-08-08,Mysuru,Rain,0.61,34
+2026-08-08,Kochi,Rain,0.58,38
+2026-08-09,Chennai,Rain,0.59,34
+2026-08-09,Vellore,Heavy Rain,0.71,33
+2026-08-09,Bengaluru,Rain,0.61,29
+2026-08-09,Visakhapatnam,Rain,0.56,35
+2026-08-09,Coimbatore,Heavy Rain,0.92,29
+2026-08-09,Vijayawada,Rain,0.52,28
+2026-08-09,Hyderabad,Heavy Rain,0.93,30
+2026-08-09,Pune,Heavy Rain,0.76,37
+2026-08-09,Mysuru,Rain,0.44,33
+2026-08-09,Kochi,Heavy Rain,0.78,31
+2026-08-10,Chennai,Rain,0.55,37
+2026-08-10,Vellore,Heavy Rain,0.93,30
+2026-08-10,Bengaluru,Rain,0.52,37
+2026-08-10,Visakhapatnam,Rain,0.65,33
+2026-08-10,Coimbatore,Heavy Rain,0.77,36
+2026-08-10,Vijayawada,Rain,0.4,28
+2026-08-10,Hyderabad,Heavy Rain,0.83,37
+2026-08-10,Pune,Heavy Rain,0.83,32
+2026-08-10,Mysuru,Rain,0.48,30
+2026-08-10,Kochi,Heavy Rain,0.9,36
+2026-08-11,Chennai,Heavy Rain,0.76,31
+2026-08-11,Vellore,Heavy Rain,0.85,33
+2026-08-11,Bengaluru,Rain,0.59,29
+2026-08-11,Visakhapatnam,Rain,0.44,30
+2026-08-11,Coimbatore,Rain,0.49,29
+2026-08-11,Vijayawada,Heavy Rain,0.77,37
+2026-08-11,Hyderabad,Rain,0.67,38
+2026-08-11,Pune,Rain,0.62,31
+2026-08-11,Mysuru,Heavy Rain,0.91,32
+2026-08-11,Kochi,Rain,0.6,30
+2026-08-12,Chennai,Rain,0.49,36
+2026-08-12,Vellore,Rain,0.41,31
+2026-08-12,Bengaluru,Heavy Rain,0.92,38
+2026-08-12,Visakhapatnam,Heavy Rain,0.79,32
+2026-08-12,Coimbatore,Heavy Rain,0.84,31
+2026-08-12,Vijayawada,Rain,0.59,36
+2026-08-12,Hyderabad,Heavy Rain,0.79,28
+2026-08-12,Pune,Heavy Rain,0.84,38
+2026-08-12,Mysuru,Rain,0.53,33
+2026-08-12,Kochi,Rain,0.54,33
+2026-08-13,Chennai,Heavy Rain,0.94,37
+2026-08-13,Vellore,Heavy Rain,0.76,34
+2026-08-13,Bengaluru,Rain,0.52,38
+2026-08-13,Visakhapatnam,Heavy Rain,0.83,29
+2026-08-13,Coimbatore,Heavy Rain,0.93,30
+2026-08-13,Vijayawada,Heavy Rain,0.93,34
+2026-08-13,Hyderabad,Heavy Rain,0.78,28
+2026-08-13,Pune,Heavy Rain,0.91,33
+2026-08-13,Mysuru,Rain,0.68,37
+2026-08-13,Kochi,Rain,0.69,30
+2026-08-14,Chennai,Heavy Rain,0.91,38
+2026-08-14,Vellore,Heavy Rain,0.72,31
+2026-08-14,Bengaluru,Heavy Rain,0.72,31
+2026-08-14,Visakhapatnam,Rain,0.65,30
+2026-08-14,Coimbatore,Rain,0.45,34
+2026-08-14,Vijayawada,Rain,0.62,29
+2026-08-14,Hyderabad,Heavy Rain,0.85,31
+2026-08-14,Pune,Heavy Rain,0.92,35
+2026-08-14,Mysuru,Rain,0.43,30
+2026-08-14,Kochi,Heavy Rain,0.79,33
+2026-08-15,Chennai,Heavy Rain,0.77,37
+2026-08-15,Vellore,Rain,0.43,30
+2026-08-15,Bengaluru,Rain,0.55,35
+2026-08-15,Visakhapatnam,Heavy Rain,0.86,33
+2026-08-15,Coimbatore,Heavy Rain,0.74,38
+2026-08-15,Vijayawada,Heavy Rain,0.8,36
+2026-08-15,Hyderabad,Heavy Rain,0.82,28
+2026-08-15,Pune,Rain,0.55,31
+2026-08-15,Mysuru,Rain,0.56,28
+2026-08-15,Kochi,Rain,0.48,28
+2026-08-16,Chennai,Rain,0.62,33
+2026-08-16,Vellore,Heavy Rain,0.93,37
+2026-08-16,Bengaluru,Heavy Rain,0.83,38
+2026-08-16,Visakhapatnam,Rain,0.59,37
+2026-08-16,Coimbatore,Rain,0.4,29
+2026-08-16,Vijayawada,Heavy Rain,0.94,38
+2026-08-16,Hyderabad,Heavy Rain,0.72,33
+2026-08-16,Pune,Rain,0.53,32
+2026-08-16,Mysuru,Rain,0.51,31
+2026-08-16,Kochi,Heavy Rain,0.72,36
+2026-08-17,Chennai,Heavy Rain,0.78,35
+2026-08-17,Vellore,Heavy Rain,0.94,37
+2026-08-17,Bengaluru,Heavy Rain,0.84,38
+2026-08-17,Visakhapatnam,Heavy Rain,0.86,34
+2026-08-17,Coimbatore,Rain,0.69,37
+2026-08-17,Vijayawada,Rain,0.52,33
+2026-08-17,Hyderabad,Rain,0.52,30
+2026-08-17,Pune,Rain,0.54,28
+2026-08-17,Mysuru,Rain,0.42,31
+2026-08-17,Kochi,Heavy Rain,0.79,38
+2026-08-18,Chennai,Rain,0.53,35
+2026-08-18,Vellore,Rain,0.47,30
+2026-08-18,Bengaluru,Heavy Rain,0.84,35
+2026-08-18,Visakhapatnam,Heavy Rain,0.71,31
+2026-08-18,Coimbatore,Heavy Rain,0.74,38
+2026-08-18,Vijayawada,Rain,0.53,33
+2026-08-18,Hyderabad,Heavy Rain,0.93,35
+2026-08-18,Pune,Heavy Rain,0.78,33
+2026-08-18,Mysuru,Rain,0.56,30
+2026-08-18,Kochi,Heavy Rain,0.72,38
+2026-08-19,Chennai,Rain,0.66,37
+2026-08-19,Vellore,Heavy Rain,0.81,28
+2026-08-19,Bengaluru,Rain,0.45,34
+2026-08-19,Visakhapatnam,Rain,0.55,34
+2026-08-19,Coimbatore,Heavy Rain,0.88,36
+2026-08-19,Vijayawada,Heavy Rain,0.71,30
+2026-08-19,Hyderabad,Rain,0.7,37
+2026-08-19,Pune,Heavy Rain,0.83,30
+2026-08-19,Mysuru,Rain,0.63,33
+2026-08-19,Kochi,Rain,0.55,31
+2026-08-20,Chennai,Rain,0.66,33
+2026-08-20,Vellore,Heavy Rain,0.79,29
+2026-08-20,Bengaluru,Rain,0.42,30
+2026-08-20,Visakhapatnam,Rain,0.43,38
+2026-08-20,Coimbatore,Rain,0.45,37
+2026-08-20,Vijayawada,Heavy Rain,0.71,29
+2026-08-20,Hyderabad,Rain,0.43,34
+2026-08-20,Pune,Rain,0.53,30
+2026-08-20,Mysuru,Rain,0.61,36
+2026-08-20,Kochi,Heavy Rain,0.91,29
+2026-08-21,Chennai,Heavy Rain,0.73,36
+2026-08-21,Vellore,Heavy Rain,0.89,37
+2026-08-21,Bengaluru,Heavy Rain,0.71,29
+2026-08-21,Visakhapatnam,Rain,0.43,38
+2026-08-21,Coimbatore,Heavy Rain,0.83,33
+2026-08-21,Vijayawada,Heavy Rain,0.72,36
+2026-08-21,Hyderabad,Heavy Rain,0.87,30
+2026-08-21,Pune,Rain,0.59,33
+2026-08-21,Mysuru,Heavy Rain,0.81,31
+2026-08-21,Kochi,Rain,0.61,35
+2026-08-22,Chennai,Rain,0.63,37
+2026-08-22,Vellore,Rain,0.48,30
+2026-08-22,Bengaluru,Rain,0.47,38
+2026-08-22,Visakhapatnam,Rain,0.58,29
+2026-08-22,Coimbatore,Heavy Rain,0.76,36
+2026-08-22,Vijayawada,Heavy Rain,0.87,35
+2026-08-22,Hyderabad,Rain,0.55,33
+2026-08-22,Pune,Heavy Rain,0.93,31
+2026-08-22,Mysuru,Rain,0.41,30
+2026-08-22,Kochi,Heavy Rain,0.82,37
+2026-08-23,Chennai,Rain,0.51,34
+2026-08-23,Vellore,Rain,0.63,37
+2026-08-23,Bengaluru,Heavy Rain,0.82,38
+2026-08-23,Visakhapatnam,Rain,0.5,32
+2026-08-23,Coimbatore,Heavy Rain,0.86,38
+2026-08-23,Vijayawada,Rain,0.55,33
+2026-08-23,Hyderabad,Rain,0.42,32
+2026-08-23,Pune,Rain,0.42,35
+2026-08-23,Mysuru,Heavy Rain,0.83,34
+2026-08-23,Kochi,Rain,0.52,38
+2026-08-24,Chennai,Heavy Rain,0.73,36
+2026-08-24,Vellore,Heavy Rain,0.78,37
+2026-08-24,Bengaluru,Heavy Rain,0.71,36
+2026-08-24,Visakhapatnam,Heavy Rain,0.74,37
+2026-08-24,Coimbatore,Rain,0.68,28
+2026-08-24,Vijayawada,Rain,0.65,34
+2026-08-24,Hyderabad,Rain,0.49,34
+2026-08-24,Pune,Rain,0.41,33
+2026-08-24,Mysuru,Heavy Rain,0.77,34
+2026-08-24,Kochi,Rain,0.63,28
+2026-08-25,Chennai,Rain,0.65,36
+2026-08-25,Vellore,Rain,0.53,31
+2026-08-25,Bengaluru,Rain,0.54,33
+2026-08-25,Visakhapatnam,Heavy Rain,0.76,36
+2026-08-25,Coimbatore,Heavy Rain,0.75,29
+2026-08-25,Vijayawada,Rain,0.48,30
+2026-08-25,Hyderabad,Rain,0.63,38
+2026-08-25,Pune,Rain,0.47,35
+2026-08-25,Mysuru,Heavy Rain,0.83,28
+2026-08-25,Kochi,Rain,0.57,33
+2026-08-26,Chennai,Heavy Rain,0.76,36
+2026-08-26,Vellore,Heavy Rain,0.8,30
+2026-08-26,Bengaluru,Heavy Rain,0.93,33
+2026-08-26,Visakhapatnam,Heavy Rain,0.81,32
+2026-08-26,Coimbatore,Heavy Rain,0.92,28
+2026-08-26,Vijayawada,Rain,0.51,31
+2026-08-26,Hyderabad,Rain,0.63,36
+2026-08-26,Pune,Heavy Rain,0.85,33
+2026-08-26,Mysuru,Rain,0.69,35
+2026-08-26,Kochi,Heavy Rain,0.76,37
+2026-08-27,Chennai,Heavy Rain,0.9,37
+2026-08-27,Vellore,Rain,0.42,29
+2026-08-27,Bengaluru,Heavy Rain,0.8,37
+2026-08-27,Visakhapatnam,Heavy Rain,0.91,36
+2026-08-27,Coimbatore,Heavy Rain,0.78,36
+2026-08-27,Vijayawada,Heavy Rain,0.76,28
+2026-08-27,Hyderabad,Rain,0.52,36
+2026-08-27,Pune,Rain,0.68,38
+2026-08-27,Mysuru,Rain,0.57,31
+2026-08-27,Kochi,Rain,0.65,29
+2026-08-28,Chennai,Heavy Rain,0.71,32
+2026-08-28,Vellore,Heavy Rain,0.93,33
+2026-08-28,Bengaluru,Heavy Rain,0.75,29
+2026-08-28,Visakhapatnam,Rain,0.46,28
+2026-08-28,Coimbatore,Heavy Rain,0.74,34
+2026-08-28,Vijayawada,Rain,0.64,34
+2026-08-28,Hyderabad,Rain,0.64,37
+2026-08-28,Pune,Rain,0.48,37
+2026-08-28,Mysuru,Rain,0.54,34
+2026-08-28,Kochi,Rain,0.45,37
+2026-08-29,Chennai,Heavy Rain,0.75,38
+2026-08-29,Vellore,Rain,0.47,38
+2026-08-29,Bengaluru,Heavy Rain,0.89,30
+2026-08-29,Visakhapatnam,Heavy Rain,0.91,31
+2026-08-29,Coimbatore,Heavy Rain,0.91,36
+2026-08-29,Vijayawada,Heavy Rain,0.85,29
+2026-08-29,Hyderabad,Heavy Rain,0.88,28
+2026-08-29,Pune,Rain,0.53,33
+2026-08-29,Mysuru,Rain,0.47,30
+2026-08-29,Kochi,Rain,0.46,29
+2026-08-30,Chennai,Rain,0.63,37
+2026-08-30,Vellore,Heavy Rain,0.87,36
+2026-08-30,Bengaluru,Heavy Rain,0.77,34
+2026-08-30,Visakhapatnam,Heavy Rain,0.89,30
+2026-08-30,Coimbatore,Heavy Rain,0.71,28
+2026-08-30,Vijayawada,Heavy Rain,0.83,36
+2026-08-30,Hyderabad,Rain,0.66,32
+2026-08-30,Pune,Rain,0.5,37
+2026-08-30,Mysuru,Rain,0.58,33
+2026-08-30,Kochi,Heavy Rain,0.77,37
+2026-08-31,Chennai,Heavy Rain,0.71,30
+2026-08-31,Vellore,Rain,0.67,31
+2026-08-31,Bengaluru,Rain,0.55,33
+2026-08-31,Visakhapatnam,Rain,0.45,29
+2026-08-31,Coimbatore,Rain,0.62,28
+2026-08-31,Vijayawada,Heavy Rain,0.75,36
+2026-08-31,Hyderabad,Rain,0.5,30
+2026-08-31,Pune,Rain,0.57,34
+2026-08-31,Mysuru,Heavy Rain,0.71,28
+2026-08-31,Kochi,Rain,0.62,31

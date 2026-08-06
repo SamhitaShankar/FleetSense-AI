@@ -1,0 +1,201 @@
+equipment_id,equipment_type,status,expected_return,inspection_days,maintenance_days,turnaround_buffer_days,available_date
+EQEX1001,Excavator,On Rental,2026-07-30,1,2,3,2026-08-02
+EQEX1002,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1003,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1004,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1005,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1006,Excavator,On Rental,2026-08-13,1,2,3,2026-08-16
+EQEX1007,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1008,Excavator,On Rental,2026-07-25,1,2,3,2026-07-28
+EQEX1009,Excavator,On Rental,2026-08-10,1,2,3,2026-08-13
+EQEX1010,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1011,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1012,Excavator,On Rental,2026-08-04,1,2,3,2026-08-07
+EQEX1013,Excavator,On Rental,2026-08-25,1,2,3,2026-08-28
+EQEX1014,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1015,Excavator,On Rental,2026-08-05,1,2,3,2026-08-08
+EQEX1016,Excavator,On Rental,2026-08-02,1,2,3,2026-08-05
+EQEX1017,Excavator,On Rental,2026-08-17,1,2,3,2026-08-20
+EQEX1018,Excavator,On Rental,2026-07-26,1,2,3,2026-07-29
+EQEX1019,Excavator,On Rental,2026-08-06,1,2,3,2026-08-09
+EQEX1020,Excavator,On Rental,2026-08-11,1,2,3,2026-08-14
+EQEX1021,Excavator,On Rental,2026-08-06,1,2,3,2026-08-09
+EQEX1022,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1023,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1024,Excavator,On Rental,2026-08-03,1,2,3,2026-08-06
+EQEX1025,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1026,Excavator,On Rental,2026-08-10,1,2,3,2026-08-13
+EQEX1027,Excavator,On Rental,2026-08-15,1,2,3,2026-08-18
+EQEX1028,Excavator,On Rental,2026-08-07,1,2,3,2026-08-10
+EQEX1029,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1030,Excavator,On Rental,2026-08-01,1,2,3,2026-08-04
+EQEX1031,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1032,Excavator,On Rental,2026-08-12,1,2,3,2026-08-15
+EQEX1033,Excavator,On Rental,2026-08-19,1,2,3,2026-08-22
+EQEX1034,Excavator,On Rental,2026-08-03,1,2,3,2026-08-06
+EQEX1035,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1036,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1037,Excavator,On Rental,2026-07-27,1,2,3,2026-07-30
+EQEX1038,Excavator,On Rental,2026-08-17,1,2,3,2026-08-20
+EQEX1039,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1040,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1041,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1042,Excavator,On Rental,2026-07-27,1,2,3,2026-07-30
+EQEX1043,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1044,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1045,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1046,Excavator,On Rental,2026-08-07,1,2,3,2026-08-10
+EQEX1047,Excavator,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQEX1048,Excavator,On Rental,2026-08-18,1,2,3,2026-08-21
+EQBD1001,Bulldozer,On Rental,2026-08-21,1,2,3,2026-08-24
+EQBD1002,Bulldozer,On Rental,2026-08-10,1,2,3,2026-08-13
+EQBD1003,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1004,Bulldozer,On Rental,2026-08-04,1,2,3,2026-08-07
+EQBD1005,Bulldozer,On Rental,2026-08-07,1,2,3,2026-08-10
+EQBD1006,Bulldozer,On Rental,2026-07-27,1,2,3,2026-07-30
+EQBD1007,Bulldozer,On Rental,2026-08-04,1,2,3,2026-08-07
+EQBD1008,Bulldozer,On Rental,2026-08-02,1,2,3,2026-08-05
+EQBD1009,Bulldozer,On Rental,2026-07-26,1,2,3,2026-07-29
+EQBD1010,Bulldozer,On Rental,2026-08-13,1,2,3,2026-08-16
+EQBD1011,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1012,Bulldozer,On Rental,2026-08-15,1,2,3,2026-08-18
+EQBD1013,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1014,Bulldozer,On Rental,2026-08-08,1,2,3,2026-08-11
+EQBD1015,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1016,Bulldozer,On Rental,2026-08-17,1,2,3,2026-08-20
+EQBD1017,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1018,Bulldozer,On Rental,2026-08-03,1,2,3,2026-08-06
+EQBD1019,Bulldozer,On Rental,2026-08-03,1,2,3,2026-08-06
+EQBD1020,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1021,Bulldozer,On Rental,2026-08-08,1,2,3,2026-08-11
+EQBD1022,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1023,Bulldozer,On Rental,2026-07-25,1,2,3,2026-07-28
+EQBD1024,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1025,Bulldozer,On Rental,2026-08-05,1,2,3,2026-08-08
+EQBD1026,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1027,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1028,Bulldozer,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBD1029,Bulldozer,On Rental,2026-08-06,1,2,3,2026-08-09
+EQBD1030,Bulldozer,On Rental,2026-07-22,1,2,3,2026-07-25
+EQWL1001,Wheel Loader,On Rental,2026-08-25,1,2,3,2026-08-28
+EQWL1002,Wheel Loader,On Rental,2026-08-06,1,2,3,2026-08-09
+EQWL1003,Wheel Loader,On Rental,2026-08-02,1,2,3,2026-08-05
+EQWL1004,Wheel Loader,On Rental,2026-07-30,1,2,3,2026-08-02
+EQWL1005,Wheel Loader,On Rental,2026-08-19,1,2,3,2026-08-22
+EQWL1006,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1007,Wheel Loader,On Rental,2026-07-27,1,2,3,2026-07-30
+EQWL1008,Wheel Loader,On Rental,2026-08-09,1,2,3,2026-08-12
+EQWL1009,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1010,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1011,Wheel Loader,On Rental,2026-08-03,1,2,3,2026-08-06
+EQWL1012,Wheel Loader,On Rental,2026-08-16,1,2,3,2026-08-19
+EQWL1013,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1014,Wheel Loader,On Rental,2026-08-09,1,2,3,2026-08-12
+EQWL1015,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1016,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1017,Wheel Loader,On Rental,2026-08-06,1,2,3,2026-08-09
+EQWL1018,Wheel Loader,On Rental,2026-07-29,1,2,3,2026-08-01
+EQWL1019,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1020,Wheel Loader,On Rental,2026-08-19,1,2,3,2026-08-22
+EQWL1021,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1022,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1023,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1024,Wheel Loader,On Rental,2026-08-10,1,2,3,2026-08-13
+EQWL1025,Wheel Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQWL1026,Wheel Loader,On Rental,2026-08-15,1,2,3,2026-08-18
+EQGR1001,Motor Grader,On Rental,2026-08-15,1,2,3,2026-08-18
+EQGR1002,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1003,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1004,Motor Grader,On Rental,2026-08-01,1,2,3,2026-08-04
+EQGR1005,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1006,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1007,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1008,Motor Grader,On Rental,2026-08-08,1,2,3,2026-08-11
+EQGR1009,Motor Grader,On Rental,2026-08-09,1,2,3,2026-08-12
+EQGR1010,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1011,Motor Grader,On Rental,2026-08-14,1,2,3,2026-08-17
+EQGR1012,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1013,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1014,Motor Grader,On Rental,2026-08-07,1,2,3,2026-08-10
+EQGR1015,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1016,Motor Grader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQGR1017,Motor Grader,On Rental,2026-08-11,1,2,3,2026-08-14
+EQGR1018,Motor Grader,On Rental,2026-08-23,1,2,3,2026-08-26
+EQGR1019,Motor Grader,On Rental,2026-08-02,1,2,3,2026-08-05
+EQGR1020,Motor Grader,On Rental,2026-08-16,1,2,3,2026-08-19
+EQBK1001,Backhoe Loader,On Rental,2026-08-03,1,2,3,2026-08-06
+EQBK1002,Backhoe Loader,On Rental,2026-08-02,1,2,3,2026-08-05
+EQBK1003,Backhoe Loader,On Rental,2026-08-05,1,2,3,2026-08-08
+EQBK1004,Backhoe Loader,On Rental,2026-08-04,1,2,3,2026-08-07
+EQBK1005,Backhoe Loader,On Rental,2026-08-18,1,2,3,2026-08-21
+EQBK1006,Backhoe Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBK1007,Backhoe Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBK1008,Backhoe Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBK1009,Backhoe Loader,On Rental,2026-08-08,1,2,3,2026-08-11
+EQBK1010,Backhoe Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBK1011,Backhoe Loader,On Rental,2026-08-15,1,2,3,2026-08-18
+EQBK1012,Backhoe Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQBK1013,Backhoe Loader,On Rental,2026-07-19,1,2,3,2026-07-22
+EQBK1014,Backhoe Loader,On Rental,2026-08-07,1,2,3,2026-08-10
+EQBK1015,Backhoe Loader,On Rental,2026-07-31,1,2,3,2026-08-03
+EQBK1016,Backhoe Loader,On Rental,2026-08-20,1,2,3,2026-08-23
+EQBK1017,Backhoe Loader,On Rental,2026-08-09,1,2,3,2026-08-12
+EQBK1018,Backhoe Loader,On Rental,2026-08-02,1,2,3,2026-08-05
+EQBK1019,Backhoe Loader,On Rental,2026-08-08,1,2,3,2026-08-11
+EQBK1020,Backhoe Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1001,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1002,Skid Steer Loader,On Rental,2026-08-11,1,2,3,2026-08-14
+EQSS1003,Skid Steer Loader,On Rental,2026-08-22,1,2,3,2026-08-25
+EQSS1004,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1005,Skid Steer Loader,On Rental,2026-08-13,1,2,3,2026-08-16
+EQSS1006,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1007,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1008,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1009,Skid Steer Loader,On Rental,2026-07-20,1,2,3,2026-07-23
+EQSS1010,Skid Steer Loader,On Rental,2026-08-05,1,2,3,2026-08-08
+EQSS1011,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1012,Skid Steer Loader,On Rental,2026-07-22,1,2,3,2026-07-25
+EQSS1013,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1014,Skid Steer Loader,On Rental,2026-08-03,1,2,3,2026-08-06
+EQSS1015,Skid Steer Loader,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQSS1016,Skid Steer Loader,On Rental,2026-08-04,1,2,3,2026-08-07
+EQSS1017,Skid Steer Loader,On Rental,2026-08-14,1,2,3,2026-08-17
+EQSS1018,Skid Steer Loader,On Rental,2026-07-24,1,2,3,2026-07-27
+EQRR1001,Road Roller,On Rental,2026-08-13,1,2,3,2026-08-16
+EQRR1002,Road Roller,On Rental,2026-08-01,1,2,3,2026-08-04
+EQRR1003,Road Roller,On Rental,2026-08-10,1,2,3,2026-08-13
+EQRR1004,Road Roller,On Rental,2026-08-13,1,2,3,2026-08-16
+EQRR1005,Road Roller,On Rental,2026-08-20,1,2,3,2026-08-23
+EQRR1006,Road Roller,On Rental,2026-08-13,1,2,3,2026-08-16
+EQRR1007,Road Roller,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQRR1008,Road Roller,On Rental,2026-08-13,1,2,3,2026-08-16
+EQRR1009,Road Roller,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQRR1010,Road Roller,On Rental,2026-07-22,1,2,3,2026-07-25
+EQRR1011,Road Roller,On Rental,2026-08-20,1,2,3,2026-08-23
+EQRR1012,Road Roller,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQRR1013,Road Roller,On Rental,2026-07-25,1,2,3,2026-07-28
+EQRR1014,Road Roller,On Rental,2026-08-05,1,2,3,2026-08-08
+EQDT1001,Dump Truck,On Rental,2026-07-29,1,2,3,2026-08-01
+EQDT1002,Dump Truck,On Rental,2026-07-24,1,2,3,2026-07-27
+EQDT1003,Dump Truck,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQDT1004,Dump Truck,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQDT1005,Dump Truck,On Rental,2026-08-09,1,2,3,2026-08-12
+EQDT1006,Dump Truck,On Rental,2026-08-08,1,2,3,2026-08-11
+EQDT1007,Dump Truck,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQDT1008,Dump Truck,On Rental,2026-08-04,1,2,3,2026-08-07
+EQDT1009,Dump Truck,On Rental,2026-08-06,1,2,3,2026-08-09
+EQDT1010,Dump Truck,On Rental,2026-08-22,1,2,3,2026-08-25
+EQDT1011,Dump Truck,On Rental,2026-07-30,1,2,3,2026-08-02
+EQDT1012,Dump Truck,On Rental,2026-08-06,1,2,3,2026-08-09
+EQFL1001,Forklift,On Rental,2026-07-31,1,2,3,2026-08-03
+EQFL1002,Forklift,On Rental,2026-08-17,1,2,3,2026-08-20
+EQFL1003,Forklift,On Rental,2026-08-08,1,2,3,2026-08-11
+EQFL1004,Forklift,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQFL1005,Forklift,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQFL1006,Forklift,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQFL1007,Forklift,On Rental,2026-08-04,1,2,3,2026-08-07
+EQFL1008,Forklift,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQFL1009,Forklift,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQFL1010,Forklift,Idle in Yard,2026-08-05,1,2,3,2026-08-08
+EQFL1011,Forklift,On Rental,2026-07-30,1,2,3,2026-08-02
+EQFL1012,Forklift,On Rental,2026-08-07,1,2,3,2026-08-10
